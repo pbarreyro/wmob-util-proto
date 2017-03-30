@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+	<meta charset="UTF-8">
+	<title>Home Page</title>
+	<!-- Google API key: AIzaSyDI6t2O-KVIX_mnlQ3cxBixFq6fxCDDh0k -->
+	<!-- Google Places Request URL: https://maps.googleapis.com/maps/api/place/details/output?parameters -->
+	<script src="node_modules/jquery/dist/jquery.min.js" ></script>
+	<script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css" >
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<style>
+		/* Always set the map height explicitly to define the size of the div  element that contains the map. */
+		#map {	height: 100%;	}
+		/* Optional: Makes the sample page fill the window. */
+		html, body { height: 100%; margin: 0; padding: 0;      }
+	</style>
+</head>
+<body>
+	
+	
+	<div id="map"></div>
+	<!-- div class="main-body" style="background-color: red;width: 100%;">
+		Hello People. <br/>
+	</div -->
+
+	<script type="text/javascript">
+		
+
+		var $ = jQuery.noConflict();
+		var map;
+		function initMap() {
+			map = new google.maps.Map(document.getElementById('map'), { center: {lat: -34.397, lng: 150.644}, zoom: 8 });
+		}
+	</script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDI6t2O-KVIX_mnlQ3cxBixFq6fxCDDh0k&callback=initMap"
+  	 type="text/javascript"></script>
+</body>
+</html>

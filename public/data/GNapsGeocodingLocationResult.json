@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            { "long_name" : "1309", "short_name" : "1309", "types" : [ "street_number" ] },
+            { "long_name" : "5th Street Northeast", "short_name" : "5th St NE", "types" : [ "route" ] },
+            { "long_name" : "Northeast Washington", "short_name" : "Northeast Washington", "types" : [ "neighborhood", "political" ] },
+            { "long_name" : "Washington", "short_name" : "Washington", "types" : [ "locality", "political" ] },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20002",
+               "short_name" : "20002",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7003",
+               "short_name" : "7003",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1309 5th St NE, Washington, DC 20002, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9086077,
+               "lng" : -76.99737950000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90995668029149,
+                  "lng" : -76.99603051970851
+               },
+               "southwest" : {
+                  "lat" : 38.90725871970849,
+                  "lng" : -76.99872848029152
+               }
+            }
+         },
+         "place_id" : "ChIJjd_KkxC4t4kRYKJ2uaE206E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,4931 @@
+{
+   "type": "FeatureCollection",
+   "crs": {
+      "type": "name",
+      "properties": {
+         "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+   },
+   "features": [{
+      "type": "Feature",
+      "properties": {
+         "Name": "Mallory Shelter Jewelry",
+         "description": "Address: 1309 5th Street NE, Washington DC<br>Category: Accessory<br>Website: http://malloryshelterjewelry.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1309 5th Street NE, Washington DC",
+         "Category": "Accessory",
+         "Website": "http://malloryshelterjewelry.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Beadazzled",
+         "description": "Address: 1507 Connecticut Ave NW, Washington, DC<br>Category: Accessory<br>Website: http://www.beadazzled.net/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1507 Connecticut Ave NW, Washington, DC",
+         "Category": "Accessory",
+         "Website": "http://www.beadazzled.net/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "She’s Unique",
+         "description": "Address: 205 King St, Alexandria, VA<br>Category: Accessory<br>Website: https://www.facebook.com/shesuniqueva/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "205 King St, Alexandria, VA",
+         "Category": "Accessory",
+         "Website": "https://www.facebook.com/shesuniqueva/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Mia Gemma",
+         "description": "Address: 933 F St NW, Washington, DC <br>Category: Accessory<br>Website: http://www.miagemma.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "933 F St NW, Washington, DC ",
+         "Category": "Accessory",
+         "Website": "http://www.miagemma.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Arts Walk in Brookland",
+         "description": "Address: 716 Monroe St. NE, Washington DC<br>Category: Art<br>Website: http://www.monroestreetmarket.com/arts/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "716 Monroe St. NE, Washington DC",
+         "Category": "Art",
+         "Website": "http://www.monroestreetmarket.com/arts/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Framer McGee's Gallery",
+         "description": "Address: 4936 Hampden Ln, Bethesda, MD <br>Category: Art<br>Website: http://www.framermcgeesgallery.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4936 Hampden Ln, Bethesda, MD ",
+         "Category": "Art",
+         "Website": "http://www.framermcgeesgallery.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Torpedo Factory Art Center",
+         "description": "Address: 105 N Union St, Alexandria, VA<br>Category: Art<br>Website: http://torpedofactory.org/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "105 N Union St, Alexandria, VA",
+         "Category": "Art",
+         "Website": "http://torpedofactory.org/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Blue Mercury",
+         "description": "Address: Union Station, 50 Massachusetts Ave NE, Washington, DC 20002<br>Category: Beauty<br>Website: https://bluemercury.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "Union Station, 50 Massachusetts Ave NE, Washington, DC 20002",
+         "Category": "Beauty",
+         "Website": "https://bluemercury.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Blue Mercury",
+         "description": "Address: 1427 P St NW, Washington, DC 20005<br>Category: Beauty<br>Website: https://bluemercury.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1427 P St NW, Washington, DC 20005",
+         "Category": "Beauty",
+         "Website": "https://bluemercury.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Blue Mercury",
+         "description": "Address: 1619 Connecticut Ave NW, Washington, DC 20009<br>Category: Beauty<br>Website: https://bluemercury.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1619 Connecticut Ave NW, Washington, DC 20009",
+         "Category": "Beauty",
+         "Website": "https://bluemercury.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Blue Mercury",
+         "description": "Address: 1145 Connecticut Ave NW, Washington, DC 20009<br>Category: Beauty<br>Website: https://bluemercury.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1145 Connecticut Ave NW, Washington, DC 20009",
+         "Category": "Beauty",
+         "Website": "https://bluemercury.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Blue Mercury",
+         "description": "Address: 3059 M St NW, Washington, DC 20007<br>Category: Beauty<br>Website: https://bluemercury.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3059 M St NW, Washington, DC 20007",
+         "Category": "Beauty",
+         "Website": "https://bluemercury.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Blue Mercury",
+         "description": "Address: 1010 Wisconsin Ave NW #700, Washington, DC 20007<br>Category: Beauty<br>Website: https://bluemercury.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1010 Wisconsin Ave NW #700, Washington, DC 20007",
+         "Category": "Beauty",
+         "Website": "https://bluemercury.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Blue Mercury",
+         "description": "Address: 2855 Clarendon Blvd, Arlington, VA 22201<br>Category: Beauty<br>Website: https://bluemercury.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2855 Clarendon Blvd, Arlington, VA 22201",
+         "Category": "Beauty",
+         "Website": "https://bluemercury.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Blue Mercury",
+         "description": "Address: 3320 Wisconsin Ave, Washington, DC 20016<br>Category: Beauty<br>Website: https://bluemercury.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3320 Wisconsin Ave, Washington, DC 20016",
+         "Category": "Beauty",
+         "Website": "https://bluemercury.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Handmade Habitat",
+         "description": "Address: 2414 Douglas St NE, Studio 209, Washington, DC<br>Category: Beauty<br>Website: http://handmadehabitat.co/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2414 Douglas St NE, Studio 209, Washington, DC",
+         "Category": "Beauty",
+         "Website": "http://handmadehabitat.co/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Odd Provisions",
+         "description": "Address: 3301 11th St NW, Washington, DC<br>Category: Grocery<br>Website: https://www.oddprovisions.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3301 11th St NW, Washington, DC",
+         "Category": "Grocery",
+         "Website": "https://www.oddprovisions.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Trim Hair Salon",
+         "description": "Address: 2700 Ontario Rd. NW, 2nd floor, Washington, D.C.<br>Category: Beauty<br>Website: http://trimdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2700 Ontario Rd. NW, 2nd floor, Washington, D.C.",
+         "Category": "Beauty",
+         "Website": "http://trimdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Honey Bunny Boutique",
+         "description": "Address: 311 8th St NE, Washington DC<br>Category: Beauty<br>Website: http://www.hunnybunnyboutique.com/#feed-your-skin",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "311 8th St NE, Washington DC",
+         "Category": "Beauty",
+         "Website": "http://www.hunnybunnyboutique.com/#feed-your-skin"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Jaha Hair Studio",
+         "description": "Address: 941 Bonifant St, Silver Spring, MD<br>Category: Beauty<br>Website: http://www.jahahair.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "941 Bonifant St, Silver Spring, MD",
+         "Category": "Beauty",
+         "Website": "http://www.jahahair.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Polished",
+         "description": "Address: 1425 Wisconsin Ave NW, Washington, DC<br>Category: Beauty<br>Website: https://www.yelp.com/biz/polished-washington",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1425 Wisconsin Ave NW, Washington, DC",
+         "Category": "Beauty",
+         "Website": "https://www.yelp.com/biz/polished-washington"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Twist It Sista",
+         "description": "Address: 3103 20th Street NE, Washington, DC 20018<br>Category: Beauty<br>Website: https://www.facebook.com/Twist-It-Sista-248479378509468/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3103 20th Street NE, Washington, DC 20018",
+         "Category": "Beauty",
+         "Website": "https://www.facebook.com/Twist-It-Sista-248479378509468/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Rose and Sparrow",
+         "description": "Address: 631 Pennsylvania Ave SE b, Washington, DC<br>Category: Beauty<br>Website: http://www.roseandsparrowsalon.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "631 Pennsylvania Ave SE b, Washington, DC",
+         "Category": "Beauty",
+         "Website": "http://www.roseandsparrowsalon.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Tracy & Company",
+         "description": "Address: 428 8th St SE, Washington, DC<br>Category: Beauty<br>Website: http://tracyandcompany.net/index.htm",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "428 8th St SE, Washington, DC",
+         "Category": "Beauty",
+         "Website": "http://tracyandcompany.net/index.htm"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Bespoke Hair Studio",
+         "description": "Address: 1526 U St NW, Washington, DC <br>Category: Beauty<br>Website: https://www.facebook.com/bespokehairdc/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1526 U St NW, Washington, DC ",
+         "Category": "Beauty",
+         "Website": "https://www.facebook.com/bespokehairdc/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Fantom Comics",
+         "description": "Address: 2010 P St NW, Washington, DC<br>Category: Book<br>Website: http://www.fantomcomics.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2010 P St NW, Washington, DC",
+         "Category": "Book",
+         "Website": "http://www.fantomcomics.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "East City Bookshop",
+         "description": "Address: 645 Pennsylvania Ave SE # 100, Washington DC<br>Category: Book<br>Website: http://www.eastcitybookshop.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "645 Pennsylvania Ave SE # 100, Washington DC",
+         "Category": "Book",
+         "Website": "http://www.eastcitybookshop.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Hooray for Books!",
+         "description": "Address: 1555 King St, Alexandria, VA<br>Category: Book<br>Website: http://www.hooray4books.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1555 King St, Alexandria, VA",
+         "Category": "Book",
+         "Website": "http://www.hooray4books.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Second Ascent Consignment",
+         "description": "Address: 2757 Washington Boulevard, Arlington VA<br>Category: Consignment<br>Website: http://www.secondascentconsignment.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2757 Washington Boulevard, Arlington VA",
+         "Category": "Consignment",
+         "Website": "http://www.secondascentconsignment.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Buttercream Bakeshop",
+         "description": "Address: 1250 9th St NW, Washington, DC<br>Category: Dessert<br>Website: http://www.buttercreamdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1250 9th St NW, Washington, DC",
+         "Category": "Dessert",
+         "Website": "http://www.buttercreamdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Georgetown Cupcakes",
+         "description": "Address: 3301 M St NW, Washington, DC<br>Category: Dessert<br>Website: https://www.georgetowncupcake.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3301 M St NW, Washington, DC",
+         "Category": "Dessert",
+         "Website": "https://www.georgetowncupcake.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Sprinkles",
+         "description": "Address: 3015 M St NW, Washington, DC <br>Category: Dessert<br>Website: http://sprinkles.com/locations/washington-dc/georgetown",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3015 M St NW, Washington, DC ",
+         "Category": "Dessert",
+         "Website": "http://sprinkles.com/locations/washington-dc/georgetown"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Sticky Fingers",
+         "description": "Address: 1370 Park Rd NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.stickyfingersbakery.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1370 Park Rd NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.stickyfingersbakery.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "RareSweets",
+         "description": "Address: 963 Palmer Alley NW, Washington, DC<br>Category: Dessert<br>Website: https://www.raresweets.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "963 Palmer Alley NW, Washington, DC",
+         "Category": "Dessert",
+         "Website": "https://www.raresweets.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Rare Sweets",
+         "description": "Address: 963 Palmer Alley NW, Washington, DC<br>Category: Dessert<br>Website: https://www.raresweets.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "963 Palmer Alley NW, Washington, DC",
+         "Category": "Dessert",
+         "Website": "https://www.raresweets.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Sticky Fingers ",
+         "description": "Address: 1370 Park Rd NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.stickyfingersbakery.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1370 Park Rd NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.stickyfingersbakery.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Shortcake Bakery",
+         "description": "Address: 4700 Rhode Island Ave, Hyattsville, MD<br>Category: Dessert<br>Website: http://shortcakebakery.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4700 Rhode Island Ave, Hyattsville, MD",
+         "Category": "Dessert",
+         "Website": "http://shortcakebakery.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Meekly Yours",
+         "description": "Address: 1703 East West Hwy. Silver Spring, MD<br>Category: Design<br>Website: http://www.meeklyyours.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1703 East West Hwy. Silver Spring, MD",
+         "Category": "Design",
+         "Website": "http://www.meeklyyours.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "On the Purple Couch",
+         "description": "Address: 10513 Metropolitan Ave, Kensington, MD<br>Category: DIY<br>Website: http://www.onthepurplecouch.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "10513 Metropolitan Ave, Kensington, MD",
+         "Category": "DIY",
+         "Website": "http://www.onthepurplecouch.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Three Little Birds Sewing Co",
+         "description": "Address: 5132 Baltimore Ave b, Hyattsville, MD<br>Category: DIY<br>Website: https://www.threelittlebirdssewingco.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5132 Baltimore Ave b, Hyattsville, MD",
+         "Category": "DIY",
+         "Website": "https://www.threelittlebirdssewingco.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Ann Hand",
+         "description": "Address: 3236 Prospect St NW, Washington, DC 20007<br>Category: Fashion<br>Website: http://annhand.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3236 Prospect St NW, Washington, DC 20007",
+         "Category": "Fashion",
+         "Website": "http://annhand.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Letena",
+         "description": "Address: 3100 14th Street NW, Washington, DC 20010<br>Category: Fashion<br>Website: http://www.letenarestaurant.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3100 14th Street NW, Washington, DC 20010",
+         "Category": "Fashion",
+         "Website": "http://www.letenarestaurant.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Mallory Shelter Jewelry",
+         "description": "Address: 1921 Sunderland Place NW Washington, DC 20036<br>Category: Fashion<br>Website: http://malloryshelterjewelry.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1921 Sunderland Place NW Washington, DC 20036",
+         "Category": "Fashion",
+         "Website": "http://malloryshelterjewelry.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "S3 Active",
+         "description": "Address: 1274 5th St NE, Washington, DC 20002<br>Category: Fashion<br>Website: http://www.s3active.co/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1274 5th St NE, Washington, DC 20002",
+         "Category": "Fashion",
+         "Website": "http://www.s3active.co/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Sophie Blake",
+         "description": "Address: Galleria at Tysons II, Tysons, VA 22102<br>Category: Fashion<br>Website: https://sophieblake.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "Galleria at Tysons II, Tysons, VA 22102",
+         "Category": "Fashion",
+         "Website": "https://sophieblake.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Stitch & Rivet",
+         "description": "Address: 716 Monroe St NE #3, Washington, DC 20017<br>Category: Fashion<br>Website: http://www.shopstitchandrivet.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "716 Monroe St NE #3, Washington, DC 20017",
+         "Category": "Fashion",
+         "Website": "http://www.shopstitchandrivet.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Wake up little Suzie",
+         "description": "Address: 3409 Connecticut Ave NW, Washington, DC 20008<br>Category: Fashion<br>Website: http://wakeuplittlesuzie.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3409 Connecticut Ave NW, Washington, DC 20008",
+         "Category": "Fashion",
+         "Website": "http://wakeuplittlesuzie.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Summit To Soul",
+         "description": "Address: 727 8th St SE, Washington, DC<br>Category: Fashion<br>Website: https://www.summittosoul.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "727 8th St SE, Washington, DC",
+         "Category": "Fashion",
+         "Website": "https://www.summittosoul.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Rachel Pfeffer Designs",
+         "description": "Address: 716 Monroe St NE, Studio 13, Washington, DC<br>Category: Fashion<br>Website: http://www.rachelpfeffer.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "716 Monroe St NE, Studio 13, Washington, DC",
+         "Category": "Fashion",
+         "Website": "http://www.rachelpfeffer.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "TSALT Style",
+         "description": "Address: 106 North Saint Asaph Street, Alexandria VA<br>Category: Fashion<br>Website: https://tsaltstyle.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "106 North Saint Asaph Street, Alexandria VA",
+         "Category": "Fashion",
+         "Website": "https://tsaltstyle.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Undeniable Boutique",
+         "description": "Address: 11891 Grand Commons Ave., Fairfax Corner, VA<br>Category: Fashion<br>Website: https://undeniableboutique.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "11891 Grand Commons Ave., Fairfax Corner, VA",
+         "Category": "Fashion",
+         "Website": "https://undeniableboutique.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Undeniable Boutique",
+         "description": "Address: 2920 District Ave Suite 140, Fairfax, VA<br>Category: Fashion<br>Website: https://undeniableboutique.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2920 District Ave Suite 140, Fairfax, VA",
+         "Category": "Fashion",
+         "Website": "https://undeniableboutique.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Belle Mode Intimates",
+         "description": "Address: 11889 Grand Commons Ave, Fairfax, VA<br>Category: Fashion<br>Website: https://www.bellemodeintimates.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "11889 Grand Commons Ave, Fairfax, VA",
+         "Category": "Fashion",
+         "Website": "https://www.bellemodeintimates.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Matine",
+         "description": "Address: 218 9th St. SE (Rear), Washington DC<br>Category: Fashion<br>Website: http://www.matinestudio.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "218 9th St. SE (Rear), Washington DC",
+         "Category": "Fashion",
+         "Website": "http://www.matinestudio.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Robcyns",
+         "description": "Address: 3660 King St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.robcyns.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3660 King St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://www.robcyns.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Current Boutique",
+         "description": "Address: 1009 King St, Alexandria, VA<br>Category: Fashion<br>Website: https://www.currentboutique.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1009 King St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "https://www.currentboutique.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Lettie Gooch",
+         "description": "Address: 1921 8th St NW #110, Washington, DC<br>Category: Fashion<br>Website: https://www.lettiegooch.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1921 8th St NW #110, Washington, DC",
+         "Category": "Fashion",
+         "Website": "https://www.lettiegooch.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Willow ",
+         "description": "Address: 843 Upshur St NW, Washington, DC<br>Category: Fashion<br>Website: http://www.willowstores.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "843 Upshur St NW, Washington, DC",
+         "Category": "Fashion",
+         "Website": "http://www.willowstores.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Proper Topper",
+         "description": "Address: 1350 Connecticut Ave NW, Washington, DC<br>Category: Fashion<br>Website: http://propertopper.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1350 Connecticut Ave NW, Washington, DC",
+         "Category": "Fashion",
+         "Website": "http://propertopper.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Material World Boutique",
+         "description": "Address: 2121 Rhode Island Avenue NE Washington, DC <br>Category: Fashion<br>Website: https://www.facebook.com/Material-World-Boutique-314438748670641/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2121 Rhode Island Avenue NE Washington, DC ",
+         "Category": "Fashion",
+         "Website": "https://www.facebook.com/Material-World-Boutique-314438748670641/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Chic Envy",
+         "description": "Address: 11893 Grand Commons Ave, Fairfax, VA<br>Category: Fashion<br>Website: http://www.chicenvy.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "11893 Grand Commons Ave, Fairfax, VA",
+         "Category": "Fashion",
+         "Website": "http://www.chicenvy.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Stitch Sew Shop",
+         "description": "Address: 102 N Fayette Street, Old Town, Alexandria<br>Category: Fashion<br>Website: http://www.stitchsewshop.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "102 N Fayette Street, Old Town, Alexandria",
+         "Category": "Fashion",
+         "Website": "http://www.stitchsewshop.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Lou Lou",
+         "description": "Address: 132 King St. Alexandria VA<br>Category: Fashion<br>Website: https://loulouboutiques.com/#",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "132 King St. Alexandria VA",
+         "Category": "Fashion",
+         "Website": "https://loulouboutiques.com/#"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "529 Kids Consign",
+         "description": "Address: 122 S Royal St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.529kidsconsign.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "122 S Royal St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://www.529kidsconsign.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Bellacara",
+         "description": "Address: 1000 King St, Alexandria, VA<br>Category: Fashion<br>Website: https://www.bellacara.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1000 King St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "https://www.bellacara.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Bishop Boutique",
+         "description": "Address: 815-B King St, Alexandria, VA<br>Category: Fashion<br>Website: https://www.bishopboutique.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "815-B King St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "https://www.bishopboutique.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Coco Blanca",
+         "description": "Address: 210 S Union St, Alexandria, VA <br>Category: Fashion<br>Website: http://www.cocoblanca.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "210 S Union St, Alexandria, VA ",
+         "Category": "Fashion",
+         "Website": "http://www.cocoblanca.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Duchess M",
+         "description": "Address: 805 King St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.duchessm.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "805 King St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://www.duchessm.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Vintage Mirage",
+         "description": "Address: 117 S Columbus St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.vintagemirage.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "117 S Columbus St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://www.vintagemirage.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Clothes Encounters",
+         "description": "Address: 202 7th St SE, Washington, DC<br>Category: Fashion<br>Website: http://www.clothesencountersdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "202 7th St SE, Washington, DC",
+         "Category": "Fashion",
+         "Website": "http://www.clothesencountersdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Fibre Space",
+         "description": "Address: 1219 King St, Alexandria, VA<br>Category: Fashion<br>Website: http://fibrespace.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1219 King St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://fibrespace.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Gossypia",
+         "description": "Address: 325 Cameron St, Alexandria, VA<br>Category: Fashion<br>Website: https://gossypia.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "325 Cameron St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "https://gossypia.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Hysteria",
+         "description": "Address: 125 S Fairfax St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.shophysteria.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "125 S Fairfax St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://www.shophysteria.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Mint Condition",
+         "description": "Address: 103 S St Asaph St, Alexandria, VA<br>Category: Fashion<br>Website: http://shopmintcondition.com/home.php",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "103 S St Asaph St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://shopmintcondition.com/home.php"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Periwinkle Boutique",
+         "description": "Address: 111 S Columbus St, Alexandria, VA<br>Category: Fashion<br>Website: http://periwinkleboutique.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "111 S Columbus St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://periwinkleboutique.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Pink & Brown Boutique",
+         "description": "Address: 1129 King St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.pinkandbrownboutique.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1129 King St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://www.pinkandbrownboutique.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Sara Campbell",
+         "description": "Address: 320 Prince St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.saracampbellwebsite.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "320 Prince St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://www.saracampbellwebsite.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Hive",
+         "description": "Address: 301 Cameron St., Alexandria VA<br>Category: Fashion<br>Website: http://store.theshoehive.com/thehive.html",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "301 Cameron St., Alexandria VA",
+         "Category": "Fashion",
+         "Website": "http://store.theshoehive.com/thehive.html"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Shoe Hive",
+         "description": "Address: 127 S Fairfax St, Alexandria, VA<br>Category: Fashion<br>Website: http://store.theshoehive.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "127 S Fairfax St, Alexandria, VA",
+         "Category": "Fashion",
+         "Website": "http://store.theshoehive.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Urban Country",
+         "description": "Address: 7117 Arlington Road, Bethesda, Maryland<br>Category: Furniture<br>Website: www.urbancountrydesigns.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "7117 Arlington Road, Bethesda, Maryland",
+         "Category": "Furniture",
+         "Website": "www.urbancountrydesigns.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Tanglewood Works",
+         "description": "Address: 5132 Baltimore Ave, Hyattsville, MD<br>Category: Furniture<br>Website: http://tanglewoodworks.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5132 Baltimore Ave, Hyattsville, MD",
+         "Category": "Furniture",
+         "Website": "http://tanglewoodworks.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Labyrinth Games and Puzzles",
+         "description": "Address: 645 Pennsylvania Ave SE, Washington DC<br>Category: Game<br>Website: http://www.labyrinthgameshop.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "645 Pennsylvania Ave SE, Washington DC",
+         "Category": "Game",
+         "Website": "http://www.labyrinthgameshop.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Full of beans",
+         "description": "Address: 3813 Livingston St NW, Washington, DC 20015<br>Category: Gifts<br>Website: https://www.facebook.com/DCFOB/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3813 Livingston St NW, Washington, DC 20015",
+         "Category": "Gifts",
+         "Website": "https://www.facebook.com/DCFOB/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Catch can",
+         "description": "Address: 5516 Connecticut Ave NW, Washington, DC 20015<br>Category: Gifts<br>Website: http://www.catchcan.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5516 Connecticut Ave NW, Washington, DC 20015",
+         "Category": "Gifts",
+         "Website": "http://www.catchcan.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Periwinkle ",
+         "description": "Address: 3815 Livingston St NW, Washington, DC 20015<br>Category: Gifts<br>Website: http://www.periwinklegiftsdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3815 Livingston St NW, Washington, DC 20015",
+         "Category": "Gifts",
+         "Website": "http://www.periwinklegiftsdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Periwinkle ",
+         "description": "Address: 111 S Columbus St, Alexandria, VA 22314<br>Category: Gifts<br>Website: http://www.periwinklegiftsdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "111 S Columbus St, Alexandria, VA 22314",
+         "Category": "Gifts",
+         "Website": "http://www.periwinklegiftsdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Dalton Brody",
+         "description": "Address: 3412 Idaho Ave NW, Washington, DC<br>Category: Gifts<br>Website: http://daltonbrodyregistry.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3412 Idaho Ave NW, Washington, DC",
+         "Category": "Gifts",
+         "Website": "http://daltonbrodyregistry.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Gala Artisans",
+         "description": "Address: 10417 Armory Ave, Kensington, MD<br>Category: Gifts<br>Website: http://galaartisans.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "10417 Armory Ave, Kensington, MD",
+         "Category": "Gifts",
+         "Website": "http://galaartisans.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Trade Roots",
+         "description": "Address: 5852 Washington Blvd, Arlington, VA <br>Category: Gifts<br>Website: https://www.fairtraderoots.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5852 Washington Blvd, Arlington, VA ",
+         "Category": "Gifts",
+         "Website": "https://www.fairtraderoots.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Red Barn Mercantile",
+         "description": "Address: 1117 King St, Alexandria, VA<br>Category: Gifts<br>Website: http://www.redbarnmercantile.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1117 King St, Alexandria, VA",
+         "Category": "Gifts",
+         "Website": "http://www.redbarnmercantile.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Glen's Garden Market",
+         "description": "Address: 2001 S St NW, Washington, DC<br>Category: Grocery<br>Website: https://www.glensgardenmarket.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2001 S St NW, Washington, DC",
+         "Category": "Grocery",
+         "Website": "https://www.glensgardenmarket.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Each Peach Market",
+         "description": "Address: 3068 Mt Pleasant St NW, Washington, DC<br>Category: Grocery<br>Website: http://www.eachpeachmarket.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3068 Mt Pleasant St NW, Washington, DC",
+         "Category": "Grocery",
+         "Website": "http://www.eachpeachmarket.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Scarlet Oak Acupuncture",
+         "description": "Address: 1054 Thomas Jefferson St NW, Washington, DC<br>Category: Health<br>Website: http://scarletoakacupuncture.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1054 Thomas Jefferson St NW, Washington, DC",
+         "Category": "Health",
+         "Website": "http://scarletoakacupuncture.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Spa Room",
+         "description": "Address: 4115 Wisconsin Ave NW, Washington, DC<br>Category: Health<br>Website: http://sparoommassage.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4115 Wisconsin Ave NW, Washington, DC",
+         "Category": "Health",
+         "Website": "http://sparoommassage.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Hill's Kitchen",
+         "description": "Address: 713 D St SE, Washington DC<br>Category: Kitchen Supply<br>Website: http://www.hillskitchen.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "713 D St SE, Washington DC",
+         "Category": "Kitchen Supply",
+         "Website": "http://www.hillskitchen.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Hill's Kitchen",
+         "description": "Address: 713 D St SE, Washington DC<br>Category: Kitchen Supply<br>Website: http://www.hillskitchen.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "713 D St SE, Washington DC",
+         "Category": "Kitchen Supply",
+         "Website": "http://www.hillskitchen.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "La Cuisine",
+         "description": "Address: 323 Cameron St, Alexandria, VA<br>Category: Kitchen Supply<br>Website: http://lacuisineus.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "323 Cameron St, Alexandria, VA",
+         "Category": "Kitchen Supply",
+         "Website": "http://lacuisineus.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Music on the Hill",
+         "description": "Address: 801 D St NE, Washington, DC<br>Category: Music<br>Website: https://musiconthehilldc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "801 D St NE, Washington, DC",
+         "Category": "Music",
+         "Website": "https://musiconthehilldc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Framebridge",
+         "description": "Address: 1351 Wisconsin Ave NW #2, Washington, DC 20007<br>Category: Others<br>Website: https://www.framebridge.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1351 Wisconsin Ave NW #2, Washington, DC 20007",
+         "Category": "Others",
+         "Website": "https://www.framebridge.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Little Leaf",
+         "description": "Address: 1401 S St NW, Washington, DC 20009<br>Category: Others<br>Website: https://www.littleleafshop.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1401 S St NW, Washington, DC 20009",
+         "Category": "Others",
+         "Website": "https://www.littleleafshop.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Salt & Sundry",
+         "description": "Address: 1625 14th St NW, Washington, DC 20009<br>Category: Others<br>Website: https://www.shopsaltandsundry.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1625 14th St NW, Washington, DC 20009",
+         "Category": "Others",
+         "Website": "https://www.shopsaltandsundry.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Salt & Sundry",
+         "description": "Address: 1309 5th St NE, Washington, DC 20002<br>Category: Others<br>Website: https://www.shopsaltandsundry.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1309 5th St NE, Washington, DC 20002",
+         "Category": "Others",
+         "Website": "https://www.shopsaltandsundry.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Women's Museum",
+         "description": "Address: 1250 New York Ave NW, Washington, DC 20005<br>Category: Others<br>Website: https://nmwa.org/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1250 New York Ave NW, Washington, DC 20005",
+         "Category": "Others",
+         "Website": "https://nmwa.org/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Typecase Industries",
+         "description": "Address: 2122 8th St NW, Washington, DC 20001<br>Category: Others<br>Website: http://www.typecaseindustries.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2122 8th St NW, Washington, DC 20001",
+         "Category": "Others",
+         "Website": "http://www.typecaseindustries.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Hera Hub DC",
+         "description": "Address: 5028 Wisconsin Ave NW, Washington, DC<br>Category: Others<br>Website: https://herahub.com/dc/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5028 Wisconsin Ave NW, Washington, DC",
+         "Category": "Others",
+         "Website": "https://herahub.com/dc/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Metro Muts",
+         "description": "Address: 508 H St NE, Washington DC<br>Category: Pet<br>Website: http://www.metromuttsdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "508 H St NE, Washington DC",
+         "Category": "Pet",
+         "Website": "http://www.metromuttsdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Cheeky Puppy",
+         "description": "Address: 1709 Connecticut Ave NW, Washington, DC<br>Category: Pet<br>Website: https://www.thecheekypuppy.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1709 Connecticut Ave NW, Washington, DC",
+         "Category": "Pet",
+         "Website": "https://www.thecheekypuppy.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Dog Park",
+         "description": "Address: 705 King St, Alexandria, VA<br>Category: Pet<br>Website: http://www.thedogparkva.biz/blog/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "705 King St, Alexandria, VA",
+         "Category": "Pet",
+         "Website": "http://www.thedogparkva.biz/blog/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Buffalo & Bergen",
+         "description": "Address: Union Market, 1309 5th St NE, Washington, DC 20002<br>Category: Restaurant<br>Website: http://www.buffalobergendc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "Union Market, 1309 5th St NE, Washington, DC 20002",
+         "Category": "Restaurant",
+         "Website": "http://www.buffalobergendc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Centrolina",
+         "description": "Address: 974 Palmer Alley NW, Washington, DC 20001<br>Category: Restaurant<br>Website: http://centrolinadc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "974 Palmer Alley NW, Washington, DC 20001",
+         "Category": "Restaurant",
+         "Website": "http://centrolinadc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Chaia",
+         "description": "Address: 3207 Grace St NW, Washington, DC 20007<br>Category: Restaurant<br>Website: http://www.chaiadc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3207 Grace St NW, Washington, DC 20007",
+         "Category": "Restaurant",
+         "Website": "http://www.chaiadc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Denizens Brewing Co.",
+         "description": "Address: 1115 East West Highway, Silver Spring, MD 20910<br>Category: Restaurant<br>Website: https://denizensbrewingco.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1115 East West Highway, Silver Spring, MD 20910",
+         "Category": "Restaurant",
+         "Website": "https://denizensbrewingco.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Esencias Panameñas",
+         "description": "Address: 3322 Georgia Ave NW, Washington, DC 20010<br>Category: Restaurant<br>Website: https://esenciaspanamenas.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3322 Georgia Ave NW, Washington, DC 20010",
+         "Category": "Restaurant",
+         "Website": "https://esenciaspanamenas.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Fare Well",
+         "description": "Address: 406 H St NE, Washington, DC 20002<br>Category: Restaurant<br>Website: https://www.eatfarewell.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "406 H St NE, Washington, DC 20002",
+         "Category": "Restaurant",
+         "Website": "https://www.eatfarewell.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Pie Sisters",
+         "description": "Address: 3423 M St NW, Washington, DC 20007<br>Category: Restaurant<br>Website: http://piesisters.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3423 M St NW, Washington, DC 20007",
+         "Category": "Restaurant",
+         "Website": "http://piesisters.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Pizzeria Paradiso",
+         "description": "Address: 2003 P St NW, Washington, DC 20036<br>Category: Restaurant<br>Website: http://www.eatyourpizza.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2003 P St NW, Washington, DC 20036",
+         "Category": "Restaurant",
+         "Website": "http://www.eatyourpizza.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Pizzeria Paradiso",
+         "description": "Address: 3282 M St NW, Washington, DC 20007<br>Category: Restaurant<br>Website: http://www.eatyourpizza.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3282 M St NW, Washington, DC 20007",
+         "Category": "Restaurant",
+         "Website": "http://www.eatyourpizza.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Pizzeria Paradiso",
+         "description": "Address: 124 King St, Alexandria, VA 22314<br>Category: Restaurant<br>Website: http://www.eatyourpizza.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "124 King St, Alexandria, VA 22314",
+         "Category": "Restaurant",
+         "Website": "http://www.eatyourpizza.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Prescription Chicken",
+         "description": "Address: 703 Edgewood Street NE, Washington, DC 20017<br>Category: Restaurant<br>Website: http://www.prescriptionchicken.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "703 Edgewood Street NE, Washington, DC 20017",
+         "Category": "Restaurant",
+         "Website": "http://www.prescriptionchicken.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Restaurant Nora",
+         "description": "Address: 2132 Florida Ave NW, Washington, DC 20008<br>Category: Restaurant<br>Website: http://www.noras.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2132 Florida Ave NW, Washington, DC 20008",
+         "Category": "Restaurant",
+         "Website": "http://www.noras.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Smoked & Stacked",
+         "description": "Address: 1239 9th St NW, Washington, DC 20001<br>Category: Restaurant<br>Website: http://www.smokedandstacked.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1239 9th St NW, Washington, DC 20001",
+         "Category": "Restaurant",
+         "Website": "http://www.smokedandstacked.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Toli Moli",
+         "description": "Address: 1309 5th St NE, Washington, DC 20002<br>Category: Restaurant<br>Website: http://www.tolimolidc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1309 5th St NE, Washington, DC 20002",
+         "Category": "Restaurant",
+         "Website": "http://www.tolimolidc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Turning Natural",
+         "description": "Address: 2025 Martin Luther King Jr Ave SE, Washington, DC 20020<br>Category: Restaurant<br>Website: http://www.turningnatural.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2025 Martin Luther King Jr Ave SE, Washington, DC 20020",
+         "Category": "Restaurant",
+         "Website": "http://www.turningnatural.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Turning Natural",
+         "description": "Address: 7748 Marlboro Pike, District Heights, MD 20747<br>Category: Restaurant<br>Website: http://www.turningnatural.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "7748 Marlboro Pike, District Heights, MD 20747",
+         "Category": "Restaurant",
+         "Website": "http://www.turningnatural.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Lemon Bowl",
+         "description": "Address: 3015 Georgia Ave NW, Washington, DC<br>Category: Restaurant<br>Website: https://thelemonbowl.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3015 Georgia Ave NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "https://thelemonbowl.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "I Ricchi",
+         "description": "Address: 1220 19th St NW, Washington, DC<br>Category: Restaurant<br>Website: http://iricchidc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1220 19th St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://iricchidc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Paramount Cafe",
+         "description": "Address: 1425 S Eads St, Arlington, VA<br>Category: Restaurant<br>Website: https://www.facebook.com/Paramount-Cafe-VA-186810621485472/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1425 S Eads St, Arlington, VA",
+         "Category": "Restaurant",
+         "Website": "https://www.facebook.com/Paramount-Cafe-VA-186810621485472/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Greenheart Juice Shop",
+         "description": "Address: 1229 34th St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.greenheartjuiceshop.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1229 34th St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.greenheartjuiceshop.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "100 Bowls of Soup",
+         "description": "Address: 279 Sunset Park Dr, Herndon, VA<br>Category: Restaurant<br>Website: http://www.100bowlsofsoup.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "279 Sunset Park Dr, Herndon, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.100bowlsofsoup.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Gaijin Ramen Shop",
+         "description": "Address: 3800 Lee Hwy, Arlington, VA<br>Category: Restaurant<br>Website: http://www.gaijinramenshop.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3800 Lee Hwy, Arlington, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.gaijinramenshop.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Columbia Room",
+         "description": "Address: 124 Blagden Alley NW, Washington DC<br>Category: Restaurant<br>Website: http://columbiaroomdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "124 Blagden Alley NW, Washington DC",
+         "Category": "Restaurant",
+         "Website": "http://columbiaroomdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Mockingbird Hill",
+         "description": "Address: 1843 7th Street NW, Washington DC<br>Category: Restaurant<br>Website: https://www.facebook.com/drinkmoresherry/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1843 7th Street NW, Washington DC",
+         "Category": "Restaurant",
+         "Website": "https://www.facebook.com/drinkmoresherry/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Southern Efficiency",
+         "description": "Address: 1841 7th Street NW, Washington DC<br>Category: Restaurant<br>Website: http://www.whiskeyhome.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1841 7th Street NW, Washington DC",
+         "Category": "Restaurant",
+         "Website": "http://www.whiskeyhome.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Eat the Rich",
+         "description": "Address: 1839 7th Street NW, Washington DC<br>Category: Restaurant<br>Website: http://www.etrbar.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1839 7th Street NW, Washington DC",
+         "Category": "Restaurant",
+         "Website": "http://www.etrbar.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Kefa Cafe",
+         "description": "Address: 963 Bonifant St, Silver Spring, MD<br>Category: Restaurant<br>Website: http://www.kefacafe.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "963 Bonifant St, Silver Spring, MD",
+         "Category": "Restaurant",
+         "Website": "http://www.kefacafe.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Ris",
+         "description": "Address: 2275 L St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.risdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2275 L St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.risdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Crumbs and Whiskers",
+         "description": "Address: 3211 O St NW, Washington, DC<br>Category: Restaurant<br>Website: http://crumbsandwhiskers.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3211 O St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://crumbsandwhiskers.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Uproar",
+         "description": "Address: 639 Florida Ave NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.uproarlounge.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "639 Florida Ave NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.uproarlounge.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Himitsu",
+         "description": "Address: 828 Upshur St NW, Washington, DC<br>Category: Restaurant<br>Website: http://himitsudc.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "828 Upshur St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://himitsudc.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Republic Restoratives",
+         "description": "Address: 1369 New York Ave NE, Washington, DC<br>Category: Restaurant<br>Website: http://republicrestoratives.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1369 New York Ave NE, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://republicrestoratives.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Dos Gringos",
+         "description": "Address: 3116 Mt Pleasant St NW, Washington, DC<br>Category: Restaurant<br>Website: http://dosgringosdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3116 Mt Pleasant St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://dosgringosdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Purple Patch Restaurant",
+         "description": "Address: 3155 Mt Pleasant St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.purplepatchdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3155 Mt Pleasant St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.purplepatchdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Haydee's",
+         "description": "Address: 3102 Mt Pleasant St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.haydees.us/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3102 Mt Pleasant St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.haydees.us/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Haydee's",
+         "description": "Address: 6303 Georgia Ave NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.haydees.us/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "6303 Georgia Ave NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.haydees.us/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Arlington Kabob",
+         "description": "Address: 5046 Lee Hwy, Arlington, VA<br>Category: Restaurant<br>Website: https://www.arlingtonkabobva.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5046 Lee Hwy, Arlington, VA",
+         "Category": "Restaurant",
+         "Website": "https://www.arlingtonkabobva.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Sudhouse",
+         "description": "Address: 1340 U St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.sudhousedc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1340 U St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.sudhousedc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Hank's Oyster Bar",
+         "description": "Address: 1624 Q St NW, Washington, DC 20009<br>Category: Restaurant<br>Website: http://hanksoysterbar.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1624 Q St NW, Washington, DC 20009",
+         "Category": "Restaurant",
+         "Website": "http://hanksoysterbar.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Hank’s Pasta Bar",
+         "description": "Address: 600 Montgomery St, Alexandria, VA 22314<br>Category: Restaurant<br>Website: http://www.hankspastabar.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "600 Montgomery St, Alexandria, VA 22314",
+         "Category": "Restaurant",
+         "Website": "http://www.hankspastabar.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Ice Cream Jubilee",
+         "description": "Address: 301 Water St SE, Washington, DC 20003<br>Category: Restaurant<br>Website: http://www.icecreamjubilee.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "301 Water St SE, Washington, DC 20003",
+         "Category": "Restaurant",
+         "Website": "http://www.icecreamjubilee.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "JRINK",
+         "description": "Address: 1323 Connecticut Ave NW, Washington DC 20036<br>Category: Restaurant<br>Website: http://jrink.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1323 Connecticut Ave NW, Washington DC 20036",
+         "Category": "Restaurant",
+         "Website": "http://jrink.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "JRINK",
+         "description": "Address: 1922 I St NW, Washington, DC 20006<br>Category: Restaurant<br>Website: http://jrink.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1922 I St NW, Washington, DC 20006",
+         "Category": "Restaurant",
+         "Website": "http://jrink.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "JRINK",
+         "description": "Address: 1800 Wyoming Ave NW, Washington, DC 20009<br>Category: Restaurant<br>Website: http://jrink.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1800 Wyoming Ave NW, Washington, DC 20009",
+         "Category": "Restaurant",
+         "Website": "http://jrink.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Kicheko Goods",
+         "description": "Address: 52 O St NW #301, Washington, DC 20001<br>Category: Restaurant<br>Website: https://kichekogoods.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "52 O St NW #301, Washington, DC 20001",
+         "Category": "Restaurant",
+         "Website": "https://kichekogoods.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Chaia ",
+         "description": "Address: 3207 Grace St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.chaiadc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3207 Grace St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.chaiadc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Nido ",
+         "description": "Address: 2214 Rhode Island Ave NE, Washington, DC<br>Category: Restaurant<br>Website: http://www.nido-dc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2214 Rhode Island Ave NE, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.nido-dc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Veloce",
+         "description": "Address: 1828 L St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.eatatveloce.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1828 L St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.eatatveloce.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Town Tavern",
+         "description": "Address: 2323 18th St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.towntaverndc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2323 18th St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.towntaverndc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Johnny's Half Shell",
+         "description": "Address: 1819 Columbia Rd NW, Washington, DC<br>Category: Restaurant<br>Website: http://johnnyshalfshell.net/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1819 Columbia Rd NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://johnnyshalfshell.net/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Taqueria Nacional",
+         "description": "Address: 1409 T St NW, Washington, DC<br>Category: Restaurant<br>Website: http://taquerianacional.co/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1409 T St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://taquerianacional.co/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Olive Express Cafe",
+         "description": "Address: 1881 Campus Commons Dr Suite 100, Reston, VA<br>Category: Restaurant<br>Website: http://www.oliveexpressvirginia.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1881 Campus Commons Dr Suite 100, Reston, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.oliveexpressvirginia.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Olive Express Cafe - Summit",
+         "description": "Address: 2000 Edmund Halley Dr #140, Reston, VA<br>Category: Restaurant<br>Website: http://www.oliveexpressvirginia.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2000 Edmund Halley Dr #140, Reston, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.oliveexpressvirginia.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Cheesetique",
+         "description": "Address: 2411 Mt Vernon Ave, Alexandria, VA<br>Category: Restaurant<br>Website: http://cheesetique.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2411 Mt Vernon Ave, Alexandria, VA",
+         "Category": "Restaurant",
+         "Website": "http://cheesetique.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Aromatic Spice Blends",
+         "description": "Address: 279 Sunset Park Dr, Herndon, VA<br>Category: Retail<br>Website: https://www.aromaticspiceblends.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "279 Sunset Park Dr, Herndon, VA",
+         "Category": "Retail",
+         "Website": "https://www.aromaticspiceblends.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Cookery",
+         "description": "Address: 3414 Wisconsin Ave, NW, Wshington, DC<br>Category: Retail<br>Website: http://www.cookeryshops.com/products/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3414 Wisconsin Ave, NW, Wshington, DC",
+         "Category": "Retail",
+         "Website": "http://www.cookeryshops.com/products/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Brew Shop",
+         "description": "Address: 2004 Wilson Blvd, Arlington, VA<br>Category: Retail<br>Website: http://www.arlbrew.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2004 Wilson Blvd, Arlington, VA",
+         "Category": "Retail",
+         "Website": "http://www.arlbrew.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Olio Tasting Room",
+         "description": "Address: 1223 King St, Alexandria, VA<br>Category: Retail<br>Website: https://www.oliotastingroom.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1223 King St, Alexandria, VA",
+         "Category": "Retail",
+         "Website": "https://www.oliotastingroom.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Spice & Tea Exchange",
+         "description": "Address: 320 King St, Alexandria, VA<br>Category: Retail<br>Website: http://www.spiceandtea.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "320 King St, Alexandria, VA",
+         "Category": "Retail",
+         "Website": "http://www.spiceandtea.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Cookery",
+         "description": "Address: 4017B Campbell Ave, Arlington, VA<br>Category: Retail <br>Website: http://www.cookeryshops.com/products/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4017B Campbell Ave, Arlington, VA",
+         "Category": "Retail ",
+         "Website": "http://www.cookeryshops.com/products/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Biker Barre",
+         "description": "Address: 738 7th St SE, Washington, DC<br>Category: Fitness<br>Website: https://bikerbarre.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "738 7th St SE, Washington, DC",
+         "Category": "Fitness",
+         "Website": "https://bikerbarre.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "LavaBarre",
+         "description": "Address: 1528 Clarendon Blvd, Arlington, VA<br>Category: Fitness<br>Website: http://lavabarre.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1528 Clarendon Blvd, Arlington, VA",
+         "Category": "Fitness",
+         "Website": "http://lavabarre.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Barre3",
+         "description": "Address: 1832 14th St NW, Washington, DC<br>Category: Fitness<br>Website: http://barre3.com/studio-locations/dc-14th-street",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1832 14th St NW, Washington, DC",
+         "Category": "Fitness",
+         "Website": "http://barre3.com/studio-locations/dc-14th-street"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Barre3",
+         "description": "Address: 1000 Wisconsin Ave NW, Washington, DC<br>Category: Fitness<br>Website: http://barre3.com/studio-locations/georgetown",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1000 Wisconsin Ave NW, Washington, DC",
+         "Category": "Fitness",
+         "Website": "http://barre3.com/studio-locations/georgetown"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Barre3",
+         "description": "Address: 701 2nd St NE, Washington, DC<br>Category: Fitness<br>Website: http://barre3.com/studio-locations/union-station",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "701 2nd St NE, Washington, DC",
+         "Category": "Fitness",
+         "Website": "http://barre3.com/studio-locations/union-station"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Barre3",
+         "description": "Address: 4900 Massachusetts Ave NW, Washington, DC<br>Category: Fitness<br>Website: http://barre3.com/studio-locations/spring-valley",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4900 Massachusetts Ave NW, Washington, DC",
+         "Category": "Fitness",
+         "Website": "http://barre3.com/studio-locations/spring-valley"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "CYCLED!",
+         "description": "Address: 1110 Ripley St, Silver Spring, MD<br>Category: Fitness<br>Website: http://www.cycledmd.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1110 Ripley St, Silver Spring, MD",
+         "Category": "Fitness",
+         "Website": "http://www.cycledmd.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "MAD Fitness",
+         "description": "Address: 7302 Carroll Ave, Takoma Park, MD<br>Category: Fitness<br>Website: http://www.madfitness.us/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "7302 Carroll Ave, Takoma Park, MD",
+         "Category": "Fitness",
+         "Website": "http://www.madfitness.us/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Tranquil Space",
+         "description": "Address: 1632 17th St NW, Washington, DC<br>Category: Fitness<br>Website: http://www.tranquilspace.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1632 17th St NW, Washington, DC",
+         "Category": "Fitness",
+         "Website": "http://www.tranquilspace.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Off Road DC",
+         "description": "Address: 905 U St NW, Washington, DC<br>Category: Fitness<br>Website: http://offroaddc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "905 U St NW, Washington, DC",
+         "Category": "Fitness",
+         "Website": "http://offroaddc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Teaism",
+         "description": "Address: 400 8th St NW, Washington, DC <br>Category: Tea<br>Website: http://www.vintagemirage.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "400 8th St NW, Washington, DC ",
+         "Category": "Tea",
+         "Website": "http://www.vintagemirage.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Calabash Teahouse & Cafe",
+         "description": "Address: 1847 7th St NW, Washington, DC<br>Category: Tea<br>Website: http://calabashdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1847 7th St NW, Washington, DC",
+         "Category": "Tea",
+         "Website": "http://calabashdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Miss Pixie's",
+         "description": "Address: 1626 14th St NW, Washington, DC<br>Category: Vintage<br>Website: http://www.misspixies.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1626 14th St NW, Washington, DC",
+         "Category": "Vintage",
+         "Website": "http://www.misspixies.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Meeps Vintage",
+         "description": "Address: 2104 18th St NW, Washington, DC<br>Category: Vintage<br>Website: http://www.meepsdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2104 18th St NW, Washington, DC",
+         "Category": "Vintage",
+         "Website": "http://www.meepsdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Pica Taco",
+         "description": "Address: 1406 Florida Ave NW, Washington, DC<br>Category: Restaurant<br>Website: http://pica-taco.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1406 Florida Ave NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://pica-taco.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Foxfire Grill",
+         "description": "Address: 6550 Little River Turnpike, Alexandria, VA <br>Category: Restaurant<br>Website: http://www.foxfire-grill.com/index.html",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "6550 Little River Turnpike, Alexandria, VA ",
+         "Category": "Restaurant",
+         "Website": "http://www.foxfire-grill.com/index.html"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Rural Dog Rescue",
+         "description": "Address: 722 8th Street SE Apt A, Washington, DC<br>Category: Pet<br>Website: http://www.ruraldogrescue.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "722 8th Street SE Apt A, Washington, DC",
+         "Category": "Pet",
+         "Website": "http://www.ruraldogrescue.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Falling Leaf Wellness",
+         "description": "Address: 2000 P St, NW, Washington DC<br>Category: Health<br>Website: http://fallingleafwellness.net/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2000 P St, NW, Washington DC",
+         "Category": "Health",
+         "Website": "http://fallingleafwellness.net/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Village Sweet Bakery",
+         "description": "Address: 5872 Washington Blvd., Arlington VA<br>Category: Desert<br>Website: http://www.villagesweetbakery.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5872 Washington Blvd., Arlington VA",
+         "Category": "Desert",
+         "Website": "http://www.villagesweetbakery.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Soupergirl!",
+         "description": "Address: 1829 M St NW, Washington, DC<br>Category: Restaurant<br>Website: https://thesoupergirl.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1829 M St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "https://thesoupergirl.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Soupergirl!",
+         "description": "Address: 314 Carroll St NW, Washington, DC<br>Category: Restaurant<br>Website: https://thesoupergirl.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "314 Carroll St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "https://thesoupergirl.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Outrage",
+         "description": "Address: 2439 18th Street NW, Washington, DC<br>Category: Fashion<br>Website: https://www.the-outrage.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2439 18th Street NW, Washington, DC",
+         "Category": "Fashion",
+         "Website": "https://www.the-outrage.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Mayflowers",
+         "description": "Address: 11959 Market St, Reston, VA <br>Category: Others<br>Website: https://www.mayflowersreston.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "11959 Market St, Reston, VA ",
+         "Category": "Others",
+         "Website": "https://www.mayflowersreston.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Pekoe Acupuncture & Wellness Center",
+         "description": "Address: 1410 9th St NW #1, Washington, DC<br>Category: Health<br>Website: https://www.pekoedc.net/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1410 9th St NW #1, Washington, DC",
+         "Category": "Health",
+         "Website": "https://www.pekoedc.net/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "FitOne Studio",
+         "description": "Address: 814 N St Asaph St, Alexandria, VA<br>Category: Fitness<br>Website: http://www.fitonestudio.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "814 N St Asaph St, Alexandria, VA",
+         "Category": "Fitness",
+         "Website": "http://www.fitonestudio.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Sweet Root Village",
+         "description": "Address: 4570 Eisenhower Ave, Alexandria, VA<br>Category: Others<br>Website: http://sweetrootvillage.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4570 Eisenhower Ave, Alexandria, VA",
+         "Category": "Others",
+         "Website": "http://sweetrootvillage.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Authentic Portrait ",
+         "description": "Address: 10409 Main Street, Suite C, Fairfax VA<br>Category: Others<br>Website: http://authenticportrait.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "10409 Main Street, Suite C, Fairfax VA",
+         "Category": "Others",
+         "Website": "http://authenticportrait.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Thip Khao",
+         "description": "Address: 3462 14th St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.thipkhao.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3462 14th St NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "http://www.thipkhao.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Bangkok Golden",
+         "description": "Address: 6395 Seven Corners Center, Falls Church, VA<br>Category: Restaurant<br>Website: http://www.bangkokgoldenva.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "6395 Seven Corners Center, Falls Church, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.bangkokgoldenva.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Esencias Panameñas",
+         "description": "Address: 3322 Georgia Ave NW, Washington, DC<br>Category: Restaurant<br>Website: https://esenciaspanamenas.com/About_Us.html",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3322 Georgia Ave NW, Washington, DC",
+         "Category": "Restaurant",
+         "Website": "https://esenciaspanamenas.com/About_Us.html"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Kali Yoga Studio",
+         "description": "Address: 3423 14th St NW, Washington, DC <br>Category: Fitness<br>Website: http://kaliyogadc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3423 14th St NW, Washington, DC ",
+         "Category": "Fitness",
+         "Website": "http://kaliyogadc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Fran's Cake & Candy Supplies",
+         "description": "Address: 10927 Main Street, Fairfax, VA<br>Category: Desert<br>Website: http://www.franscakeandcandy.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "10927 Main Street, Fairfax, VA",
+         "Category": "Desert",
+         "Website": "http://www.franscakeandcandy.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Righteous Cheese",
+         "description": "Address: Union Market, 1309 5th St NE, Washington, DC 20002<br>Category: Restaurant<br>Website: http://www.righteouscheese.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "Union Market, 1309 5th St NE, Washington, DC 20002",
+         "Category": "Restaurant",
+         "Website": "http://www.righteouscheese.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Coffee Bar",
+         "description": "Address: 1200 17th St NW #150, Washington, DC <br>Category: Restaurant<br>Website: https://www.thecoffeebardc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1200 17th St NW #150, Washington, DC ",
+         "Category": "Restaurant",
+         "Website": "https://www.thecoffeebardc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Imagination Stage",
+         "description": "Address: 4908 Auburn Ave, Bethesda, MD<br>Category: Others<br>Website: http://www.imaginationstage.org/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4908 Auburn Ave, Bethesda, MD",
+         "Category": "Others",
+         "Website": "http://www.imaginationstage.org/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Big Bad Woof",
+         "description": "Address: 6960 Maple St NW, Washington, DC<br>Category: Pet<br>Website: http://www.thebigbadwoof.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "6960 Maple St NW, Washington, DC",
+         "Category": "Pet",
+         "Website": "http://www.thebigbadwoof.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Tabletop",
+         "description": "Address: 1608 20th St NW, Washington, DC <br>Category: Gifts<br>Website: http://tabletopdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1608 20th St NW, Washington, DC ",
+         "Category": "Gifts",
+         "Website": "http://tabletopdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Tabletop",
+         "description": "Address: 6927 Laurel Ave , Takoma Park, MD<br>Category: Gifts<br>Website: http://tabletopdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "6927 Laurel Ave , Takoma Park, MD",
+         "Category": "Gifts",
+         "Website": "http://tabletopdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Polly Sue's Vintage",
+         "description": "Address: 6915 Laurel Ave, Takoma Park, MD<br>Category: Vintage<br>Website: http://pollysuesvintage.tumblr.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "6915 Laurel Ave, Takoma Park, MD",
+         "Category": "Vintage",
+         "Website": "http://pollysuesvintage.tumblr.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Good Wood",
+         "description": "Address: 1428 U St NW, Washington, DC<br>Category: Furniture<br>Website: http://www.goodwooddc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1428 U St NW, Washington, DC",
+         "Category": "Furniture",
+         "Website": "http://www.goodwooddc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Parlour",
+         "description": "Address: 522 U St NW, Washington, DC<br>Category: Beauty<br>Website: http://parlourdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "522 U St NW, Washington, DC",
+         "Category": "Beauty",
+         "Website": "http://parlourdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Junction Vintage",
+         "description": "Address: 1510 U St NW # B, Washington, DC<br>Category: Vintage<br>Website: http://www.junctionwdc.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1510 U St NW # B, Washington, DC",
+         "Category": "Vintage",
+         "Website": "http://www.junctionwdc.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Rock The Reformer",
+         "description": "Address: 5406 Wisconsin Ave c, Chevy Chase, MD<br>Category: Fitness<br>Website: http://rtrpilates.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5406 Wisconsin Ave c, Chevy Chase, MD",
+         "Category": "Fitness",
+         "Website": "http://rtrpilates.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Heavenly Bodies Clinic",
+         "description": "Address: 21305 N. Evergreen Street, Arlington, VA<br>Category: Health<br>Website: http://www.heavenlybodiesclinic.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "21305 N. Evergreen Street, Arlington, VA",
+         "Category": "Health",
+         "Website": "http://www.heavenlybodiesclinic.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Multisport in Motion",
+         "description": "Address: 2655 41st St NW, Washington, DC<br>Category: Fitness<br>Website: http://multisportinmotion.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2655 41st St NW, Washington, DC",
+         "Category": "Fitness",
+         "Website": "http://multisportinmotion.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Clare and Dons",
+         "description": "Address: 130 North Washington Street, Falls Church, VA<br>Category: Restaurant<br>Website: https://t.co/MkotX6Z5az",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "130 North Washington Street, Falls Church, VA",
+         "Category": "Restaurant",
+         "Website": "https://t.co/MkotX6Z5az"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Eamonn's",
+         "description": "Address: 728 King Street, Alexandria, VA<br>Category: Restaurant<br>Website: http://www.eamonnsdublinchipper.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "728 King Street, Alexandria, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.eamonnsdublinchipper.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Peru 703",
+         "description": "Address: 5005 Westone Plaza Suite D, Chantilly, VA<br>Category: Restaurant<br>Website: http://www.peru703.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5005 Westone Plaza Suite D, Chantilly, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.peru703.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Pupatella",
+         "description": "Address: 5104 Wilson Blvd, Arlington, VA <br>Category: Restaurant<br>Website: http://www.pupatella.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5104 Wilson Blvd, Arlington, VA ",
+         "Category": "Restaurant",
+         "Website": "http://www.pupatella.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Requin",
+         "description": "Address: 8296 Glass Alley,Fairfax, VA<br>Category: Restaurant<br>Website: http://requinbymic.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "8296 Glass Alley,Fairfax, VA",
+         "Category": "Restaurant",
+         "Website": "http://requinbymic.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Restaurant Eve",
+         "description": "Address: 110 South Pitt Street, Alexandria, VA<br>Category: Restaurant<br>Website: http://www.restauranteve.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "110 South Pitt Street, Alexandria, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.restauranteve.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Screwtop Wine Bar",
+         "description": "Address: 1025 N. Fillmore St., Arlington, VA<br>Category: Restaurant<br>Website: http://www.screwtopwinebar.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1025 N. Fillmore St., Arlington, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.screwtopwinebar.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Society Fair",
+         "description": "Address: 277 S Washington St, Alexandria, VA<br>Category: Restaurant<br>Website: http://www.societyfair.net/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "277 S Washington St, Alexandria, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.societyfair.net/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Trummer's On Main",
+         "description": "Address: 7134 Main Street, Clifton, VA<br>Category: Restaurant<br>Website: http://www.trummersonmain.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "7134 Main Street, Clifton, VA",
+         "Category": "Restaurant",
+         "Website": "http://www.trummersonmain.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Everly & Monet",
+         "description": "Address: 4912 Del Ray Ave, Bethesda, MD<br>Category: Fashion<br>Website: http://www.everlyandmonet.com/#lookbook",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4912 Del Ray Ave, Bethesda, MD",
+         "Category": "Fashion",
+         "Website": "http://www.everlyandmonet.com/#lookbook"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Sweet Teensy Bakery",
+         "description": "Address: 1 Wisconsin Cir., Chevy Chase, MD<br>Category: Dessert<br>Website: https://www.sweetteensy.com/menu",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1 Wisconsin Cir., Chevy Chase, MD",
+         "Category": "Dessert",
+         "Website": "https://www.sweetteensy.com/menu"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Bartered Threads",
+         "description": "Address: 3924 12th St NE, Washington, DC<br>Category: Vintage<br>Website: https://www.barteredthreads.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3924 12th St NE, Washington, DC",
+         "Category": "Vintage",
+         "Website": "https://www.barteredthreads.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Hula Girl Bar and Grill",
+         "description": "Address: 4044 Campbell Ave, Arlington, VA <br>Category: Restaurant<br>Website: http://hulagirlbarandgrill.com/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4044 Campbell Ave, Arlington, VA ",
+         "Category": "Restaurant",
+         "Website": "http://hulagirlbarandgrill.com/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Core72",
+         "description": "Address: 3316 Wisconsin Ave NW, Washington, DC<br>Category: Fashion<br>Website: http://www.core72dc.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3316 Wisconsin Ave NW, Washington, DC",
+         "Category": "Fashion",
+         "Website": "http://www.core72dc.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Core73",
+         "description": "Address: 5502 Connecticut Ave NW, Washington, DC<br>Category: Fashion<br>Website: http://www.core72dc.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "5502 Connecticut Ave NW, Washington, DC",
+         "Category": "Fashion",
+         "Website": "http://www.core72dc.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Annie’s Ace Hardware",
+         "description": "Address: 1240 Upshur St, NW, Washington, DC<br>Category: Others<br>Website: www.annieshardware.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1240 Upshur St, NW, Washington, DC",
+         "Category": "Others",
+         "Website": "www.annieshardware.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Annie’s Ace Hardware",
+         "description": "Address: 3405 8th Street, NE, Washington, DC<br>Category: Others<br>Website: www.annieshardware.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3405 8th Street, NE, Washington, DC",
+         "Category": "Others",
+         "Website": "www.annieshardware.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Nubian Hueman",
+         "description": "Address: 1231 Good Hope Rd SE, Washington, DC<br>Category: Beauty<br>Website: http://nubianhueman.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1231 Good Hope Rd SE, Washington, DC",
+         "Category": "Beauty",
+         "Website": "http://nubianhueman.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Fibre Space",
+         "description": "Address: 1219 King St, Alexandria, VA <br>Category: DIY<br>Website: http://fibrespace.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1219 King St, Alexandria, VA ",
+         "Category": "DIY",
+         "Website": "http://fibrespace.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Past Tense Yoga Studio",
+         "description": "Address: 3253 Mt Pleasant St NW, Washington, DC<br>Category: Fitness<br>Website: http://pasttensestudio.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3253 Mt Pleasant St NW, Washington, DC",
+         "Category": "Fitness",
+         "Website": "http://pasttensestudio.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Violet Boutique",
+         "description": "Address: 3289 M St NW, Washington, DC <br>Category: Fashion<br>Website: http://www.violetdc.com/wonderwomen",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3289 M St NW, Washington, DC ",
+         "Category": "Fashion",
+         "Website": "http://www.violetdc.com/wonderwomen"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Elevate",
+         "description": "Address: 2428 14th St NW, Washington, DC<br>Category: Others<br>Website: http://www.elevatedeffect.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2428 14th St NW, Washington, DC",
+         "Category": "Others",
+         "Website": "http://www.elevatedeffect.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Dogma Vapes",
+         "description": "Address: 2490 Roxbury Mill Rd #5, Glenwood, MD<br>Category: Pets<br>Website: https://www.facebook.com/DogmaVapes/",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "2490 Roxbury Mill Rd #5, Glenwood, MD",
+         "Category": "Pets",
+         "Website": "https://www.facebook.com/DogmaVapes/"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Stylish Patina ",
+         "description": "Address: 410 S Maple Ave #114, Falls Church, VA<br>Category: Gifts<br>Website: http://www.stylishpatina.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "410 S Maple Ave #114, Falls Church, VA",
+         "Category": "Gifts",
+         "Website": "http://www.stylishpatina.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Dangerously Delicious Pies",
+         "description": "Address: 1339 H st NE, Washington DC<br>Category: Restaurant<br>Website: http://www.dangerouspiesdc.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1339 H st NE, Washington DC",
+         "Category": "Restaurant",
+         "Website": "http://www.dangerouspiesdc.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Dangerously Delicious Pies",
+         "description": "Address: 675 I st NW, Washington DC<br>Category: Restaurant<br>Website: http://www.dangerouspiesdc.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "675 I st NW, Washington DC",
+         "Category": "Restaurant",
+         "Website": "http://www.dangerouspiesdc.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Baked by Yael",
+         "description": "Address: 3000 Connecticut Ave NW, Washington, DC<br>Category: Dessert<br>Website: https://bakedbyyael.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3000 Connecticut Ave NW, Washington, DC",
+         "Category": "Dessert",
+         "Website": "https://bakedbyyael.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Community Forklift",
+         "description": "Address: 4671 Tanglewood Dr, Hyattsville, MD<br>Category: Others<br>Website: http://communityforklift.org",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4671 Tanglewood Dr, Hyattsville, MD",
+         "Category": "Others",
+         "Website": "http://communityforklift.org"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Judah Avenue Wedding and Lifestyle Photography",
+         "description": "Address: 718 Cloverly Street, Silver Spring, MD<br>Category: Others<br>Website: http://www.judahavenue.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "718 Cloverly Street, Silver Spring, MD",
+         "Category": "Others",
+         "Website": "http://www.judahavenue.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Children's Choice Pediatric Dentistry",
+         "description": "Address: 8500 Annapolis Rd #213, New Carrollton, MD<br>Category: Health<br>Website: http://www.mychildrenschoicedental.com/-elcome.html",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "8500 Annapolis Rd #213, New Carrollton, MD",
+         "Category": "Health",
+         "Website": "http://www.mychildrenschoicedental.com/-elcome.html"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Saving Grace Petcare",
+         "description": "Address: 224 9th St NE, Washington, DC <br>Category: Pet<br>Website: http://www.savinggracepets.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "224 9th St NE, Washington, DC ",
+         "Category": "Pet",
+         "Website": "http://www.savinggracepets.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Taylor and York",
+         "description": "Address: 1604 7th St NW, Washington, DC<br>Category: Beauty<br>Website: http://taylorandyorksalon.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1604 7th St NW, Washington, DC",
+         "Category": "Beauty",
+         "Website": "http://taylorandyorksalon.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Everard's Clothing",
+         "description": "Address: 1802 Wisconsin Ave NW, Washington DC<br>Category: Fashion<br>Website: http://everardsclothing.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1802 Wisconsin Ave NW, Washington DC",
+         "Category": "Fashion",
+         "Website": "http://everardsclothing.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "ReCreative Spaces",
+         "description": "Address: 3501 Perry Street, Mount Rainier, MD<br>Category: Others<br>Website: https://www.recreativespaces.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "3501 Perry Street, Mount Rainier, MD",
+         "Category": "Others",
+         "Website": "https://www.recreativespaces.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Insight Opticians",
+         "description": "Address: 1240 F St NW, Washington, DC <br>Category: Fashion<br>Website: http://insightdc.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1240 F St NW, Washington, DC ",
+         "Category": "Fashion",
+         "Website": "http://insightdc.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Solidcore",
+         "description": "Address: 1706 Columbia Rd NW, Washington, DC<br>Category: Fitness<br>Website: http://solidcore.co",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1706 Columbia Rd NW, Washington, DC",
+         "Category": "Fitness",
+         "Website": "http://solidcore.co"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Sweet Lobby",
+         "description": "Address: 404 8th St SE, Washington, DC <br>Category: Dessert<br>Website: http://www.sweetlobby.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "404 8th St SE, Washington, DC ",
+         "Category": "Dessert",
+         "Website": "http://www.sweetlobby.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Souk",
+         "description": "Address: 705 8th St SE, Washington, DC <br>Category: Dessert<br>Website: https://www.dcsouk.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "705 8th St SE, Washington, DC ",
+         "Category": "Dessert",
+         "Website": "https://www.dcsouk.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Yogaso Boutique",
+         "description": "Address: 11803 Grand Park Ave., North Bethesda, MD <br>Category: Fashion<br>Website: http://www.yogaso.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "11803 Grand Park Ave., North Bethesda, MD ",
+         "Category": "Fashion",
+         "Website": "http://www.yogaso.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Bazaar Spices",
+         "description": "Address: 1309 5th St NE, Washington, DC<br>Category: Retail<br>Website: https://www.bazaarspices.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1309 5th St NE, Washington, DC",
+         "Category": "Retail",
+         "Website": "https://www.bazaarspices.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Framebridge",
+         "description": "Address: 1351 Wisconsin Ave NW #2, Washington, DC<br>Category: Others<br>Website: https://www.framebridge.com/?gclid=CMiDyqKAzdICFQ1YDQodHF0DMQ",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1351 Wisconsin Ave NW #2, Washington, DC",
+         "Category": "Others",
+         "Website": "https://www.framebridge.com/?gclid=CMiDyqKAzdICFQ1YDQodHF0DMQ"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Lemon Lane",
+         "description": "Address: 926B W. Broad St., Falls Church, VA<br>Category: Fashion<br>Website: http://lemonlaneconsignment.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "926B W. Broad St., Falls Church, VA",
+         "Category": "Fashion",
+         "Website": "http://lemonlaneconsignment.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "The Escape Lounge",
+         "description": "Address: 1322B H Street NE, Washington, DC<br>Category: Others<br>Website: http://escapetheroom.today",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1322B H Street NE, Washington, DC",
+         "Category": "Others",
+         "Website": "http://escapetheroom.today"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Dance Loft",
+         "description": "Address: 4618 14th st NW, Washington, DC<br>Category: Fitness<br>Website: http://www.Danceloft14.org",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "4618 14th st NW, Washington, DC",
+         "Category": "Fitness",
+         "Website": "http://www.Danceloft14.org"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "South Capitol Smile Center",
+         "description": "Address: 1313 South Capitol Street SW, Washington, DC<br>Category: Health<br>Website: http://www.southcapitolsmilecenter.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1313 South Capitol Street SW, Washington, DC",
+         "Category": "Health",
+         "Website": "http://www.southcapitolsmilecenter.com"
+      },
+      "geometry": null
+   }, {
+      "type": "Feature",
+      "properties": {
+         "Name": "Junction Vintage ",
+         "description": "Address: 1510 U St NW # B, Washington, DC<br>Category: Vintage<br>Website: http://www.junctionwdc.com",
+         "timestamp": null,
+         "begin": null,
+         "end": null,
+         "altitudeMode": null,
+         "tessellate": null,
+         "extrude": null,
+         "visibility": -1,
+         "drawOrder": null,
+         "icon": null,
+         "Address": "1510 U St NW # B, Washington, DC",
+         "Category": "Vintage",
+         "Website": "http://www.junctionwdc.com"
+      },
+      "geometry": null
+   }]
+}

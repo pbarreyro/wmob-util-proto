@@ -1,0 +1,82 @@
+<html>
+
+<head>
+	<title>Women & Minority Owned Business</title>
+
+	<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"
+		integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>	
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+	<script type="text/javascript" src="app.js"></script>
+
+	<style> .glyphicon-thumbs-up { cursor: pointer; }</style>
+</head>	
+
+
+<body ng-app="BizTrak" ng-controller="TestCtrl">
+
+	<div class="row">
+		<div class="col-md-6 col-md-offset-3">
+			
+
+			<div class="page-header">
+				<h1>Women & Minority Owned Business Manager</h1>
+			</div>
+
+			<div ng-repeat="post in posts | orderBy:'-ranking'">
+				<span class="glyphicon glyphicon-thumbs-up" ng-click="incrementBusinessRanking(post);"></span>
+				&#32;&#32;&#32;
+				<span class="glyphicon glyphicon-thumbs-down" ng-click="decrementBusinessRanking(post);"></span>
+				<a ng-show="post.link" href="https://{{post.link}}" target="_blank">
+					{{post.name}}	
+				</a>
+				<span ng-hide="post.link" style="font-size:20px; margin-left:10px;">
+					{{post.name}}
+				</span>
+				  <address>
+				  	<strong>{{post.name}}</strong> <br>
+				  	{{post.address.street1}}<br>
+				  	{{post.address.city}}, {{post.address.state}} {{post.address.zipCode}} {{post.address.country}}<br>
+				  </address>
+				{{post.description}} <br/>
+				{{post.ranking}}<br /><br />
+			</div>
+		</div>
+	</div>
+
+	<button ng-hide="formHidden" ng-click="toggleForm(true);">Add Business</button>
+	<form ng-show="formHidden" ng-submit="addNewBusiness()" style="margin-top:30px;">
+
+
+		<h3>Add a new post</h3>
+
+		<div class="form-group">
+			<label for="bizName">Business Name</label>
+			<input style="form-control" id="bizName" type="text" placeHolder="Business Name" ng-model="name"></input><br/><br/>
+		</div><br>
+			<label>Business Address</label>
+			<input style="form-control" id="bizAddrStreet" type="text" placeHolder="Street Address" ng-model="address.street1"></input>
+			<input style="form-control" id="bizAddrCity" type="text" placeHolder="City" ng-model="address.city"></input>
+			<input style="form-control" id="bizAddrZip" type="text" placeHolder="ZipCode" ng-model="address.zipCode"></input>
+			<input style="form-control" id="bizAddrState" type="text" placeHolder="State" ng-model="address.state"></input>
+			<input type="tel" id="bizAddrPhone" type="text" placeHolder="Business Address Phone" ng-model="address.phone"></input>
+			<br/>
+		<div class="form-group">
+			<label for="bizDesc">Business Description</label>
+			<input style="form-control" id="bizDesc" type="text" placeHolder="Business Description" ng-model="description"></input>
+		</div><br>
+		<div class="form-group">
+			<label for="bizURL">Business Website</label>
+			<input style="form-control" id="bizURL" type="text" placeHolder="Business URL"  ng-model="link"><br/>
+		</div><br>
+
+			<button class="btn btn-primary" type="submit">Submit</button>
+			<button class="btn btn-warning" type="reset" ng-click="toggleForm(false);">Cancel</button>
+		</div>
+	</form>
+
+
+</body>
+
+</html>

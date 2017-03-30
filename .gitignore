@@ -1,0 +1,6 @@
+# .gitignore 
+node_modules/
+public/data/*.geojson
+public/scripts/geoXML
+public/style/bootstrap*.css
+app.js

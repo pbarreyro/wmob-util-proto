@@ -1,0 +1,4447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DC Women-owned Businesses</name>
+    <description/>
+    <Style id="icon-1512-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1512-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1512-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1512-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1512-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Women-owned Business</name>
+      <Placemark>
+        <name>Mallory Shelter Jewelry</name>
+        <address>1309 5th Street NE, Washington DC</address>
+        <description><![CDATA[Address: 1309 5th Street NE, Washington DC<br>Category: Accessory<br>Website: http://malloryshelterjewelry.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1309 5th Street NE, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Accessory</value>
+          </Data>
+          <Data name="Website">
+            <value>http://malloryshelterjewelry.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Beadazzled</name>
+        <address>1507 Connecticut Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 1507 Connecticut Ave NW, Washington, DC<br>Category: Accessory<br>Website: http://www.beadazzled.net/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1507 Connecticut Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Accessory</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.beadazzled.net/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>She’s Unique</name>
+        <address>205 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 205 King St, Alexandria, VA<br>Category: Accessory<br>Website: https://www.facebook.com/shesuniqueva/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>205 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Accessory</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.facebook.com/shesuniqueva/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mia Gemma</name>
+        <address>933 F St NW, Washington, DC</address>
+        <description><![CDATA[Address: 933 F St NW, Washington, DC <br>Category: Accessory<br>Website: http://www.miagemma.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>933 F St NW, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Accessory</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.miagemma.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Arts Walk in Brookland</name>
+        <address>716 Monroe St. NE, Washington DC</address>
+        <description><![CDATA[Address: 716 Monroe St. NE, Washington DC<br>Category: Art<br>Website: http://www.monroestreetmarket.com/arts/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>716 Monroe St. NE, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Art</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.monroestreetmarket.com/arts/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Framer McGee's Gallery]]></name>
+        <address>4936 Hampden Ln, Bethesda, MD</address>
+        <description><![CDATA[Address: 4936 Hampden Ln, Bethesda, MD <br>Category: Art<br>Website: http://www.framermcgeesgallery.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4936 Hampden Ln, Bethesda, MD </value>
+          </Data>
+          <Data name="Category">
+            <value>Art</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.framermcgeesgallery.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Torpedo Factory Art Center</name>
+        <address>105 N Union St, Alexandria, VA</address>
+        <description><![CDATA[Address: 105 N Union St, Alexandria, VA<br>Category: Art<br>Website: http://torpedofactory.org/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>105 N Union St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Art</value>
+          </Data>
+          <Data name="Website">
+            <value>http://torpedofactory.org/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blue Mercury</name>
+        <address>Union Station, 50 Massachusetts Ave NE, Washington, DC 20002</address>
+        <description><![CDATA[Address: Union Station, 50 Massachusetts Ave NE, Washington, DC 20002<br>Category: Beauty<br>Website: https://bluemercury.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>Union Station, 50 Massachusetts Ave NE, Washington, DC 20002</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://bluemercury.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blue Mercury</name>
+        <address>1427 P St NW, Washington, DC 20005</address>
+        <description><![CDATA[Address: 1427 P St NW, Washington, DC 20005<br>Category: Beauty<br>Website: https://bluemercury.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1427 P St NW, Washington, DC 20005</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://bluemercury.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blue Mercury</name>
+        <address>1619 Connecticut Ave NW, Washington, DC 20009</address>
+        <description><![CDATA[Address: 1619 Connecticut Ave NW, Washington, DC 20009<br>Category: Beauty<br>Website: https://bluemercury.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1619 Connecticut Ave NW, Washington, DC 20009</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://bluemercury.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blue Mercury</name>
+        <address>1145 Connecticut Ave NW, Washington, DC 20009</address>
+        <description><![CDATA[Address: 1145 Connecticut Ave NW, Washington, DC 20009<br>Category: Beauty<br>Website: https://bluemercury.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1145 Connecticut Ave NW, Washington, DC 20009</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://bluemercury.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blue Mercury</name>
+        <address>3059 M St NW, Washington, DC 20007</address>
+        <description><![CDATA[Address: 3059 M St NW, Washington, DC 20007<br>Category: Beauty<br>Website: https://bluemercury.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3059 M St NW, Washington, DC 20007</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://bluemercury.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blue Mercury</name>
+        <address>1010 Wisconsin Ave NW #700, Washington, DC 20007</address>
+        <description><![CDATA[Address: 1010 Wisconsin Ave NW #700, Washington, DC 20007<br>Category: Beauty<br>Website: https://bluemercury.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1010 Wisconsin Ave NW #700, Washington, DC 20007</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://bluemercury.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blue Mercury</name>
+        <address>2855 Clarendon Blvd, Arlington, VA 22201</address>
+        <description><![CDATA[Address: 2855 Clarendon Blvd, Arlington, VA 22201<br>Category: Beauty<br>Website: https://bluemercury.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2855 Clarendon Blvd, Arlington, VA 22201</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://bluemercury.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blue Mercury</name>
+        <address>3320 Wisconsin Ave, Washington, DC 20016</address>
+        <description><![CDATA[Address: 3320 Wisconsin Ave, Washington, DC 20016<br>Category: Beauty<br>Website: https://bluemercury.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3320 Wisconsin Ave, Washington, DC 20016</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://bluemercury.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Handmade Habitat</name>
+        <address>2414 Douglas St NE, Studio 209, Washington, DC</address>
+        <description><![CDATA[Address: 2414 Douglas St NE, Studio 209, Washington, DC<br>Category: Beauty<br>Website: http://handmadehabitat.co/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2414 Douglas St NE, Studio 209, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>http://handmadehabitat.co/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Odd Provisions</name>
+        <address>3301 11th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3301 11th St NW, Washington, DC<br>Category: Grocery<br>Website: https://www.oddprovisions.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3301 11th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Grocery</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.oddprovisions.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Trim Hair Salon</name>
+        <address>2700 Ontario Rd. NW, 2nd floor, Washington, D.C.</address>
+        <description><![CDATA[Address: 2700 Ontario Rd. NW, 2nd floor, Washington, D.C.<br>Category: Beauty<br>Website: http://trimdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2700 Ontario Rd. NW, 2nd floor, Washington, D.C.</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>http://trimdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Honey Bunny Boutique</name>
+        <address>311 8th St NE, Washington DC</address>
+        <description><![CDATA[Address: 311 8th St NE, Washington DC<br>Category: Beauty<br>Website: http://www.hunnybunnyboutique.com/#feed-your-skin]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>311 8th St NE, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.hunnybunnyboutique.com/#feed-your-skin</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Jaha Hair Studio</name>
+        <address>941 Bonifant St, Silver Spring, MD</address>
+        <description><![CDATA[Address: 941 Bonifant St, Silver Spring, MD<br>Category: Beauty<br>Website: http://www.jahahair.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>941 Bonifant St, Silver Spring, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.jahahair.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Polished</name>
+        <address>1425 Wisconsin Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 1425 Wisconsin Ave NW, Washington, DC<br>Category: Beauty<br>Website: https://www.yelp.com/biz/polished-washington]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1425 Wisconsin Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.yelp.com/biz/polished-washington</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Twist It Sista</name>
+        <address>3103 20th Street NE, Washington, DC 20018</address>
+        <description><![CDATA[Address: 3103 20th Street NE, Washington, DC 20018<br>Category: Beauty<br>Website: https://www.facebook.com/Twist-It-Sista-248479378509468/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3103 20th Street NE, Washington, DC 20018</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.facebook.com/Twist-It-Sista-248479378509468/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rose and Sparrow</name>
+        <address>631 Pennsylvania Ave SE b, Washington, DC</address>
+        <description><![CDATA[Address: 631 Pennsylvania Ave SE b, Washington, DC<br>Category: Beauty<br>Website: http://www.roseandsparrowsalon.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>631 Pennsylvania Ave SE b, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.roseandsparrowsalon.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tracy & Company]]></name>
+        <address>428 8th St SE, Washington, DC</address>
+        <description><![CDATA[Address: 428 8th St SE, Washington, DC<br>Category: Beauty<br>Website: http://tracyandcompany.net/index.htm]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>428 8th St SE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>http://tracyandcompany.net/index.htm</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bespoke Hair Studio</name>
+        <address>1526 U St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1526 U St NW, Washington, DC <br>Category: Beauty<br>Website: https://www.facebook.com/bespokehairdc/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1526 U St NW, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.facebook.com/bespokehairdc/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fantom Comics</name>
+        <address>2010 P St NW, Washington, DC</address>
+        <description><![CDATA[Address: 2010 P St NW, Washington, DC<br>Category: Book<br>Website: http://www.fantomcomics.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2010 P St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Book</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.fantomcomics.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>East City Bookshop</name>
+        <address>645 Pennsylvania Ave SE # 100, Washington DC</address>
+        <description><![CDATA[Address: 645 Pennsylvania Ave SE # 100, Washington DC<br>Category: Book<br>Website: http://www.eastcitybookshop.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>645 Pennsylvania Ave SE # 100, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Book</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.eastcitybookshop.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hooray for Books!</name>
+        <address>1555 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 1555 King St, Alexandria, VA<br>Category: Book<br>Website: http://www.hooray4books.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1555 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Book</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.hooray4books.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Second Ascent Consignment</name>
+        <address>2757 Washington Boulevard, Arlington VA</address>
+        <description><![CDATA[Address: 2757 Washington Boulevard, Arlington VA<br>Category: Consignment<br>Website: http://www.secondascentconsignment.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2757 Washington Boulevard, Arlington VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Consignment</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.secondascentconsignment.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Buttercream Bakeshop</name>
+        <address>1250 9th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1250 9th St NW, Washington, DC<br>Category: Dessert<br>Website: http://www.buttercreamdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1250 9th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Dessert</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.buttercreamdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Georgetown Cupcakes</name>
+        <address>3301 M St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3301 M St NW, Washington, DC<br>Category: Dessert<br>Website: https://www.georgetowncupcake.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3301 M St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Dessert</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.georgetowncupcake.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sprinkles</name>
+        <address>3015 M St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3015 M St NW, Washington, DC <br>Category: Dessert<br>Website: http://sprinkles.com/locations/washington-dc/georgetown]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3015 M St NW, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Dessert</value>
+          </Data>
+          <Data name="Website">
+            <value>http://sprinkles.com/locations/washington-dc/georgetown</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sticky Fingers</name>
+        <address>1370 Park Rd NW, Washington, DC</address>
+        <description><![CDATA[Address: 1370 Park Rd NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.stickyfingersbakery.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1370 Park Rd NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.stickyfingersbakery.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>RareSweets</name>
+        <address>963 Palmer Alley NW, Washington, DC</address>
+        <description><![CDATA[Address: 963 Palmer Alley NW, Washington, DC<br>Category: Dessert<br>Website: https://www.raresweets.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>963 Palmer Alley NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Dessert</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.raresweets.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rare Sweets</name>
+        <address>963 Palmer Alley NW, Washington, DC</address>
+        <description><![CDATA[Address: 963 Palmer Alley NW, Washington, DC<br>Category: Dessert<br>Website: https://www.raresweets.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>963 Palmer Alley NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Dessert</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.raresweets.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sticky Fingers </name>
+        <address>1370 Park Rd NW, Washington, DC</address>
+        <description><![CDATA[Address: 1370 Park Rd NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.stickyfingersbakery.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1370 Park Rd NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.stickyfingersbakery.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Shortcake Bakery</name>
+        <address>4700 Rhode Island Ave, Hyattsville, MD</address>
+        <description><![CDATA[Address: 4700 Rhode Island Ave, Hyattsville, MD<br>Category: Dessert<br>Website: http://shortcakebakery.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4700 Rhode Island Ave, Hyattsville, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Dessert</value>
+          </Data>
+          <Data name="Website">
+            <value>http://shortcakebakery.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Meekly Yours</name>
+        <address>1703 East West Hwy. Silver Spring, MD</address>
+        <description><![CDATA[Address: 1703 East West Hwy. Silver Spring, MD<br>Category: Design<br>Website: http://www.meeklyyours.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1703 East West Hwy. Silver Spring, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Design</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.meeklyyours.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>On the Purple Couch</name>
+        <address>10513 Metropolitan Ave, Kensington, MD</address>
+        <description><![CDATA[Address: 10513 Metropolitan Ave, Kensington, MD<br>Category: DIY<br>Website: http://www.onthepurplecouch.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>10513 Metropolitan Ave, Kensington, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>DIY</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.onthepurplecouch.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Three Little Birds Sewing Co</name>
+        <address>5132 Baltimore Ave b, Hyattsville, MD</address>
+        <description><![CDATA[Address: 5132 Baltimore Ave b, Hyattsville, MD<br>Category: DIY<br>Website: https://www.threelittlebirdssewingco.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5132 Baltimore Ave b, Hyattsville, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>DIY</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.threelittlebirdssewingco.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ann Hand</name>
+        <address>3236 Prospect St NW, Washington, DC 20007</address>
+        <description><![CDATA[Address: 3236 Prospect St NW, Washington, DC 20007<br>Category: Fashion<br>Website: http://annhand.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3236 Prospect St NW, Washington, DC 20007</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://annhand.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Letena</name>
+        <address>3100 14th Street NW, Washington, DC 20010</address>
+        <description><![CDATA[Address: 3100 14th Street NW, Washington, DC 20010<br>Category: Fashion<br>Website: http://www.letenarestaurant.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3100 14th Street NW, Washington, DC 20010</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.letenarestaurant.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mallory Shelter Jewelry</name>
+        <address>1921 Sunderland Place NW Washington, DC 20036</address>
+        <description><![CDATA[Address: 1921 Sunderland Place NW Washington, DC 20036<br>Category: Fashion<br>Website: http://malloryshelterjewelry.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1921 Sunderland Place NW Washington, DC 20036</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://malloryshelterjewelry.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>S3 Active</name>
+        <address>1274 5th St NE, Washington, DC 20002</address>
+        <description><![CDATA[Address: 1274 5th St NE, Washington, DC 20002<br>Category: Fashion<br>Website: http://www.s3active.co/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1274 5th St NE, Washington, DC 20002</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.s3active.co/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sophie Blake</name>
+        <address>Galleria at Tysons II, Tysons, VA 22102</address>
+        <description><![CDATA[Address: Galleria at Tysons II, Tysons, VA 22102<br>Category: Fashion<br>Website: https://sophieblake.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>Galleria at Tysons II, Tysons, VA 22102</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://sophieblake.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Stitch & Rivet]]></name>
+        <address>716 Monroe St NE #3, Washington, DC 20017</address>
+        <description><![CDATA[Address: 716 Monroe St NE #3, Washington, DC 20017<br>Category: Fashion<br>Website: http://www.shopstitchandrivet.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>716 Monroe St NE #3, Washington, DC 20017</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.shopstitchandrivet.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Wake up little Suzie</name>
+        <address>3409 Connecticut Ave NW, Washington, DC 20008</address>
+        <description><![CDATA[Address: 3409 Connecticut Ave NW, Washington, DC 20008<br>Category: Fashion<br>Website: http://wakeuplittlesuzie.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3409 Connecticut Ave NW, Washington, DC 20008</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://wakeuplittlesuzie.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Summit To Soul</name>
+        <address>727 8th St SE, Washington, DC</address>
+        <description><![CDATA[Address: 727 8th St SE, Washington, DC<br>Category: Fashion<br>Website: https://www.summittosoul.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>727 8th St SE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.summittosoul.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rachel Pfeffer Designs</name>
+        <address>716 Monroe St NE, Studio 13, Washington, DC</address>
+        <description><![CDATA[Address: 716 Monroe St NE, Studio 13, Washington, DC<br>Category: Fashion<br>Website: http://www.rachelpfeffer.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>716 Monroe St NE, Studio 13, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.rachelpfeffer.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TSALT Style</name>
+        <address>106 North Saint Asaph Street, Alexandria VA</address>
+        <description><![CDATA[Address: 106 North Saint Asaph Street, Alexandria VA<br>Category: Fashion<br>Website: https://tsaltstyle.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>106 North Saint Asaph Street, Alexandria VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://tsaltstyle.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Undeniable Boutique</name>
+        <address>11891 Grand Commons Ave., Fairfax Corner, VA</address>
+        <description><![CDATA[Address: 11891 Grand Commons Ave., Fairfax Corner, VA<br>Category: Fashion<br>Website: https://undeniableboutique.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>11891 Grand Commons Ave., Fairfax Corner, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://undeniableboutique.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Undeniable Boutique</name>
+        <address>2920 District Ave Suite 140, Fairfax, VA</address>
+        <description><![CDATA[Address: 2920 District Ave Suite 140, Fairfax, VA<br>Category: Fashion<br>Website: https://undeniableboutique.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2920 District Ave Suite 140, Fairfax, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://undeniableboutique.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Belle Mode Intimates</name>
+        <address>11889 Grand Commons Ave, Fairfax, VA</address>
+        <description><![CDATA[Address: 11889 Grand Commons Ave, Fairfax, VA<br>Category: Fashion<br>Website: https://www.bellemodeintimates.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>11889 Grand Commons Ave, Fairfax, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.bellemodeintimates.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Matine</name>
+        <address>218 9th St. SE (Rear), Washington DC</address>
+        <description><![CDATA[Address: 218 9th St. SE (Rear), Washington DC<br>Category: Fashion<br>Website: http://www.matinestudio.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>218 9th St. SE (Rear), Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.matinestudio.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Robcyns</name>
+        <address>3660 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 3660 King St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.robcyns.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3660 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.robcyns.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Current Boutique</name>
+        <address>1009 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 1009 King St, Alexandria, VA<br>Category: Fashion<br>Website: https://www.currentboutique.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1009 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.currentboutique.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lettie Gooch</name>
+        <address>1921 8th St NW #110, Washington, DC</address>
+        <description><![CDATA[Address: 1921 8th St NW #110, Washington, DC<br>Category: Fashion<br>Website: https://www.lettiegooch.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1921 8th St NW #110, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.lettiegooch.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Willow </name>
+        <address>843 Upshur St NW, Washington, DC</address>
+        <description><![CDATA[Address: 843 Upshur St NW, Washington, DC<br>Category: Fashion<br>Website: http://www.willowstores.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>843 Upshur St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.willowstores.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Proper Topper</name>
+        <address>1350 Connecticut Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 1350 Connecticut Ave NW, Washington, DC<br>Category: Fashion<br>Website: http://propertopper.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1350 Connecticut Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://propertopper.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Material World Boutique</name>
+        <address>2121 Rhode Island Avenue NE Washington, DC</address>
+        <description><![CDATA[Address: 2121 Rhode Island Avenue NE Washington, DC <br>Category: Fashion<br>Website: https://www.facebook.com/Material-World-Boutique-314438748670641/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2121 Rhode Island Avenue NE Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.facebook.com/Material-World-Boutique-314438748670641/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Chic Envy</name>
+        <address>11893 Grand Commons Ave, Fairfax, VA</address>
+        <description><![CDATA[Address: 11893 Grand Commons Ave, Fairfax, VA<br>Category: Fashion<br>Website: http://www.chicenvy.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>11893 Grand Commons Ave, Fairfax, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.chicenvy.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Stitch Sew Shop</name>
+        <address>102 N Fayette Street, Old Town, Alexandria</address>
+        <description><![CDATA[Address: 102 N Fayette Street, Old Town, Alexandria<br>Category: Fashion<br>Website: http://www.stitchsewshop.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>102 N Fayette Street, Old Town, Alexandria</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.stitchsewshop.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lou Lou</name>
+        <address>132 King St. Alexandria VA</address>
+        <description><![CDATA[Address: 132 King St. Alexandria VA<br>Category: Fashion<br>Website: https://loulouboutiques.com/#]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>132 King St. Alexandria VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://loulouboutiques.com/#</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>529 Kids Consign</name>
+        <address>122 S Royal St, Alexandria, VA</address>
+        <description><![CDATA[Address: 122 S Royal St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.529kidsconsign.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>122 S Royal St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.529kidsconsign.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bellacara</name>
+        <address>1000 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 1000 King St, Alexandria, VA<br>Category: Fashion<br>Website: https://www.bellacara.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1000 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.bellacara.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bishop Boutique</name>
+        <address>815-B King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 815-B King St, Alexandria, VA<br>Category: Fashion<br>Website: https://www.bishopboutique.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>815-B King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.bishopboutique.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Coco Blanca</name>
+        <address>210 S Union St, Alexandria, VA</address>
+        <description><![CDATA[Address: 210 S Union St, Alexandria, VA <br>Category: Fashion<br>Website: http://www.cocoblanca.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>210 S Union St, Alexandria, VA </value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.cocoblanca.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Duchess M</name>
+        <address>805 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 805 King St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.duchessm.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>805 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.duchessm.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Vintage Mirage</name>
+        <address>117 S Columbus St, Alexandria, VA</address>
+        <description><![CDATA[Address: 117 S Columbus St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.vintagemirage.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>117 S Columbus St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.vintagemirage.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Clothes Encounters</name>
+        <address>202 7th St SE, Washington, DC</address>
+        <description><![CDATA[Address: 202 7th St SE, Washington, DC<br>Category: Fashion<br>Website: http://www.clothesencountersdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>202 7th St SE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.clothesencountersdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fibre Space</name>
+        <address>1219 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 1219 King St, Alexandria, VA<br>Category: Fashion<br>Website: http://fibrespace.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1219 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://fibrespace.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gossypia</name>
+        <address>325 Cameron St, Alexandria, VA</address>
+        <description><![CDATA[Address: 325 Cameron St, Alexandria, VA<br>Category: Fashion<br>Website: https://gossypia.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>325 Cameron St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://gossypia.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hysteria</name>
+        <address>125 S Fairfax St, Alexandria, VA</address>
+        <description><![CDATA[Address: 125 S Fairfax St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.shophysteria.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>125 S Fairfax St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.shophysteria.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mint Condition</name>
+        <address>103 S St Asaph St, Alexandria, VA</address>
+        <description><![CDATA[Address: 103 S St Asaph St, Alexandria, VA<br>Category: Fashion<br>Website: http://shopmintcondition.com/home.php]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>103 S St Asaph St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://shopmintcondition.com/home.php</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Periwinkle Boutique</name>
+        <address>111 S Columbus St, Alexandria, VA</address>
+        <description><![CDATA[Address: 111 S Columbus St, Alexandria, VA<br>Category: Fashion<br>Website: http://periwinkleboutique.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>111 S Columbus St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://periwinkleboutique.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pink & Brown Boutique]]></name>
+        <address>1129 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 1129 King St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.pinkandbrownboutique.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1129 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.pinkandbrownboutique.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sara Campbell</name>
+        <address>320 Prince St, Alexandria, VA</address>
+        <description><![CDATA[Address: 320 Prince St, Alexandria, VA<br>Category: Fashion<br>Website: http://www.saracampbellwebsite.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>320 Prince St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.saracampbellwebsite.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Hive</name>
+        <address>301 Cameron St., Alexandria VA</address>
+        <description><![CDATA[Address: 301 Cameron St., Alexandria VA<br>Category: Fashion<br>Website: http://store.theshoehive.com/thehive.html]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>301 Cameron St., Alexandria VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://store.theshoehive.com/thehive.html</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Shoe Hive</name>
+        <address>127 S Fairfax St, Alexandria, VA</address>
+        <description><![CDATA[Address: 127 S Fairfax St, Alexandria, VA<br>Category: Fashion<br>Website: http://store.theshoehive.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>127 S Fairfax St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://store.theshoehive.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Urban Country</name>
+        <address>7117 Arlington Road, Bethesda, Maryland</address>
+        <description><![CDATA[Address: 7117 Arlington Road, Bethesda, Maryland<br>Category: Furniture<br>Website: www.urbancountrydesigns.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>7117 Arlington Road, Bethesda, Maryland</value>
+          </Data>
+          <Data name="Category">
+            <value>Furniture</value>
+          </Data>
+          <Data name="Website">
+            <value>www.urbancountrydesigns.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tanglewood Works</name>
+        <address>5132 Baltimore Ave, Hyattsville, MD</address>
+        <description><![CDATA[Address: 5132 Baltimore Ave, Hyattsville, MD<br>Category: Furniture<br>Website: http://tanglewoodworks.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5132 Baltimore Ave, Hyattsville, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Furniture</value>
+          </Data>
+          <Data name="Website">
+            <value>http://tanglewoodworks.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Labyrinth Games and Puzzles</name>
+        <address>645 Pennsylvania Ave SE, Washington DC</address>
+        <description><![CDATA[Address: 645 Pennsylvania Ave SE, Washington DC<br>Category: Game<br>Website: http://www.labyrinthgameshop.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>645 Pennsylvania Ave SE, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Game</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.labyrinthgameshop.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Full of beans</name>
+        <address>3813 Livingston St NW, Washington, DC 20015</address>
+        <description><![CDATA[Address: 3813 Livingston St NW, Washington, DC 20015<br>Category: Gifts<br>Website: https://www.facebook.com/DCFOB/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3813 Livingston St NW, Washington, DC 20015</value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.facebook.com/DCFOB/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Catch can</name>
+        <address>5516 Connecticut Ave NW, Washington, DC 20015</address>
+        <description><![CDATA[Address: 5516 Connecticut Ave NW, Washington, DC 20015<br>Category: Gifts<br>Website: http://www.catchcan.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5516 Connecticut Ave NW, Washington, DC 20015</value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.catchcan.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Periwinkle </name>
+        <address>3815 Livingston St NW, Washington, DC 20015</address>
+        <description><![CDATA[Address: 3815 Livingston St NW, Washington, DC 20015<br>Category: Gifts<br>Website: http://www.periwinklegiftsdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3815 Livingston St NW, Washington, DC 20015</value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.periwinklegiftsdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Periwinkle </name>
+        <address>111 S Columbus St, Alexandria, VA 22314</address>
+        <description><![CDATA[Address: 111 S Columbus St, Alexandria, VA 22314<br>Category: Gifts<br>Website: http://www.periwinklegiftsdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>111 S Columbus St, Alexandria, VA 22314</value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.periwinklegiftsdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dalton Brody</name>
+        <address>3412 Idaho Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 3412 Idaho Ave NW, Washington, DC<br>Category: Gifts<br>Website: http://daltonbrodyregistry.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3412 Idaho Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://daltonbrodyregistry.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gala Artisans</name>
+        <address>10417 Armory Ave, Kensington, MD</address>
+        <description><![CDATA[Address: 10417 Armory Ave, Kensington, MD<br>Category: Gifts<br>Website: http://galaartisans.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>10417 Armory Ave, Kensington, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://galaartisans.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Trade Roots</name>
+        <address>5852 Washington Blvd, Arlington, VA</address>
+        <description><![CDATA[Address: 5852 Washington Blvd, Arlington, VA <br>Category: Gifts<br>Website: https://www.fairtraderoots.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5852 Washington Blvd, Arlington, VA </value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.fairtraderoots.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Red Barn Mercantile</name>
+        <address>1117 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 1117 King St, Alexandria, VA<br>Category: Gifts<br>Website: http://www.redbarnmercantile.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1117 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.redbarnmercantile.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Glen's Garden Market]]></name>
+        <address>2001 S St NW, Washington, DC</address>
+        <description><![CDATA[Address: 2001 S St NW, Washington, DC<br>Category: Grocery<br>Website: https://www.glensgardenmarket.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2001 S St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Grocery</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.glensgardenmarket.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Each Peach Market</name>
+        <address>3068 Mt Pleasant St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3068 Mt Pleasant St NW, Washington, DC<br>Category: Grocery<br>Website: http://www.eachpeachmarket.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3068 Mt Pleasant St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Grocery</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.eachpeachmarket.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Scarlet Oak Acupuncture</name>
+        <address>1054 Thomas Jefferson St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1054 Thomas Jefferson St NW, Washington, DC<br>Category: Health<br>Website: http://scarletoakacupuncture.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1054 Thomas Jefferson St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Health</value>
+          </Data>
+          <Data name="Website">
+            <value>http://scarletoakacupuncture.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Spa Room</name>
+        <address>4115 Wisconsin Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 4115 Wisconsin Ave NW, Washington, DC<br>Category: Health<br>Website: http://sparoommassage.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4115 Wisconsin Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Health</value>
+          </Data>
+          <Data name="Website">
+            <value>http://sparoommassage.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hill's Kitchen]]></name>
+        <address>713 D St SE, Washington DC</address>
+        <description><![CDATA[Address: 713 D St SE, Washington DC<br>Category: Kitchen Supply<br>Website: http://www.hillskitchen.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>713 D St SE, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Kitchen Supply</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.hillskitchen.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hill's Kitchen]]></name>
+        <address>713 D St SE, Washington DC</address>
+        <description><![CDATA[Address: 713 D St SE, Washington DC<br>Category: Kitchen Supply<br>Website: http://www.hillskitchen.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>713 D St SE, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Kitchen Supply</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.hillskitchen.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>La Cuisine</name>
+        <address>323 Cameron St, Alexandria, VA</address>
+        <description><![CDATA[Address: 323 Cameron St, Alexandria, VA<br>Category: Kitchen Supply<br>Website: http://lacuisineus.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>323 Cameron St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Kitchen Supply</value>
+          </Data>
+          <Data name="Website">
+            <value>http://lacuisineus.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Music on the Hill</name>
+        <address>801 D St NE, Washington, DC</address>
+        <description><![CDATA[Address: 801 D St NE, Washington, DC<br>Category: Music<br>Website: https://musiconthehilldc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>801 D St NE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Music</value>
+          </Data>
+          <Data name="Website">
+            <value>https://musiconthehilldc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Framebridge</name>
+        <address>1351 Wisconsin Ave NW #2, Washington, DC 20007</address>
+        <description><![CDATA[Address: 1351 Wisconsin Ave NW #2, Washington, DC 20007<br>Category: Others<br>Website: https://www.framebridge.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1351 Wisconsin Ave NW #2, Washington, DC 20007</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.framebridge.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Little Leaf</name>
+        <address>1401 S St NW, Washington, DC 20009</address>
+        <description><![CDATA[Address: 1401 S St NW, Washington, DC 20009<br>Category: Others<br>Website: https://www.littleleafshop.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1401 S St NW, Washington, DC 20009</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.littleleafshop.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Salt & Sundry]]></name>
+        <address>1625 14th St NW, Washington, DC 20009</address>
+        <description><![CDATA[Address: 1625 14th St NW, Washington, DC 20009<br>Category: Others<br>Website: https://www.shopsaltandsundry.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1625 14th St NW, Washington, DC 20009</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.shopsaltandsundry.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Salt & Sundry]]></name>
+        <address>1309 5th St NE, Washington, DC 20002</address>
+        <description><![CDATA[Address: 1309 5th St NE, Washington, DC 20002<br>Category: Others<br>Website: https://www.shopsaltandsundry.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1309 5th St NE, Washington, DC 20002</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.shopsaltandsundry.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Women's Museum]]></name>
+        <address>1250 New York Ave NW, Washington, DC 20005</address>
+        <description><![CDATA[Address: 1250 New York Ave NW, Washington, DC 20005<br>Category: Others<br>Website: https://nmwa.org/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1250 New York Ave NW, Washington, DC 20005</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>https://nmwa.org/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Typecase Industries</name>
+        <address>2122 8th St NW, Washington, DC 20001</address>
+        <description><![CDATA[Address: 2122 8th St NW, Washington, DC 20001<br>Category: Others<br>Website: http://www.typecaseindustries.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2122 8th St NW, Washington, DC 20001</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.typecaseindustries.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hera Hub DC</name>
+        <address>5028 Wisconsin Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 5028 Wisconsin Ave NW, Washington, DC<br>Category: Others<br>Website: https://herahub.com/dc/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5028 Wisconsin Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>https://herahub.com/dc/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Metro Muts</name>
+        <address>508 H St NE, Washington DC</address>
+        <description><![CDATA[Address: 508 H St NE, Washington DC<br>Category: Pet<br>Website: http://www.metromuttsdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>508 H St NE, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Pet</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.metromuttsdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Cheeky Puppy</name>
+        <address>1709 Connecticut Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 1709 Connecticut Ave NW, Washington, DC<br>Category: Pet<br>Website: https://www.thecheekypuppy.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1709 Connecticut Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Pet</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.thecheekypuppy.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Dog Park</name>
+        <address>705 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 705 King St, Alexandria, VA<br>Category: Pet<br>Website: http://www.thedogparkva.biz/blog/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>705 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Pet</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.thedogparkva.biz/blog/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Buffalo & Bergen]]></name>
+        <address>Union Market, 1309 5th St NE, Washington, DC 20002</address>
+        <description><![CDATA[Address: Union Market, 1309 5th St NE, Washington, DC 20002<br>Category: Restaurant<br>Website: http://www.buffalobergendc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>Union Market, 1309 5th St NE, Washington, DC 20002</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.buffalobergendc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Centrolina</name>
+        <address>974 Palmer Alley NW, Washington, DC 20001</address>
+        <description><![CDATA[Address: 974 Palmer Alley NW, Washington, DC 20001<br>Category: Restaurant<br>Website: http://centrolinadc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>974 Palmer Alley NW, Washington, DC 20001</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://centrolinadc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Chaia</name>
+        <address>3207 Grace St NW, Washington, DC 20007</address>
+        <description><![CDATA[Address: 3207 Grace St NW, Washington, DC 20007<br>Category: Restaurant<br>Website: http://www.chaiadc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3207 Grace St NW, Washington, DC 20007</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.chaiadc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Denizens Brewing Co.</name>
+        <address>1115 East West Highway, Silver Spring, MD 20910</address>
+        <description><![CDATA[Address: 1115 East West Highway, Silver Spring, MD 20910<br>Category: Restaurant<br>Website: https://denizensbrewingco.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1115 East West Highway, Silver Spring, MD 20910</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://denizensbrewingco.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Esencias Panameñas</name>
+        <address>3322 Georgia Ave NW, Washington, DC 20010</address>
+        <description><![CDATA[Address: 3322 Georgia Ave NW, Washington, DC 20010<br>Category: Restaurant<br>Website: https://esenciaspanamenas.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3322 Georgia Ave NW, Washington, DC 20010</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://esenciaspanamenas.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fare Well</name>
+        <address>406 H St NE, Washington, DC 20002</address>
+        <description><![CDATA[Address: 406 H St NE, Washington, DC 20002<br>Category: Restaurant<br>Website: https://www.eatfarewell.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>406 H St NE, Washington, DC 20002</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.eatfarewell.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pie Sisters</name>
+        <address>3423 M St NW, Washington, DC 20007</address>
+        <description><![CDATA[Address: 3423 M St NW, Washington, DC 20007<br>Category: Restaurant<br>Website: http://piesisters.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3423 M St NW, Washington, DC 20007</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://piesisters.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pizzeria Paradiso</name>
+        <address>2003 P St NW, Washington, DC 20036</address>
+        <description><![CDATA[Address: 2003 P St NW, Washington, DC 20036<br>Category: Restaurant<br>Website: http://www.eatyourpizza.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2003 P St NW, Washington, DC 20036</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.eatyourpizza.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pizzeria Paradiso</name>
+        <address>3282 M St NW, Washington, DC 20007</address>
+        <description><![CDATA[Address: 3282 M St NW, Washington, DC 20007<br>Category: Restaurant<br>Website: http://www.eatyourpizza.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3282 M St NW, Washington, DC 20007</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.eatyourpizza.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pizzeria Paradiso</name>
+        <address>124 King St, Alexandria, VA 22314</address>
+        <description><![CDATA[Address: 124 King St, Alexandria, VA 22314<br>Category: Restaurant<br>Website: http://www.eatyourpizza.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>124 King St, Alexandria, VA 22314</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.eatyourpizza.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Prescription Chicken</name>
+        <address>703 Edgewood Street NE, Washington, DC 20017</address>
+        <description><![CDATA[Address: 703 Edgewood Street NE, Washington, DC 20017<br>Category: Restaurant<br>Website: http://www.prescriptionchicken.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>703 Edgewood Street NE, Washington, DC 20017</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.prescriptionchicken.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Restaurant Nora</name>
+        <address>2132 Florida Ave NW, Washington, DC 20008</address>
+        <description><![CDATA[Address: 2132 Florida Ave NW, Washington, DC 20008<br>Category: Restaurant<br>Website: http://www.noras.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2132 Florida Ave NW, Washington, DC 20008</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.noras.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Smoked & Stacked]]></name>
+        <address>1239 9th St NW, Washington, DC 20001</address>
+        <description><![CDATA[Address: 1239 9th St NW, Washington, DC 20001<br>Category: Restaurant<br>Website: http://www.smokedandstacked.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1239 9th St NW, Washington, DC 20001</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.smokedandstacked.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Toli Moli</name>
+        <address>1309 5th St NE, Washington, DC 20002</address>
+        <description><![CDATA[Address: 1309 5th St NE, Washington, DC 20002<br>Category: Restaurant<br>Website: http://www.tolimolidc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1309 5th St NE, Washington, DC 20002</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.tolimolidc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Turning Natural</name>
+        <address>2025 Martin Luther King Jr Ave SE, Washington, DC 20020</address>
+        <description><![CDATA[Address: 2025 Martin Luther King Jr Ave SE, Washington, DC 20020<br>Category: Restaurant<br>Website: http://www.turningnatural.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2025 Martin Luther King Jr Ave SE, Washington, DC 20020</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.turningnatural.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Turning Natural</name>
+        <address>7748 Marlboro Pike, District Heights, MD 20747</address>
+        <description><![CDATA[Address: 7748 Marlboro Pike, District Heights, MD 20747<br>Category: Restaurant<br>Website: http://www.turningnatural.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>7748 Marlboro Pike, District Heights, MD 20747</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.turningnatural.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Lemon Bowl</name>
+        <address>3015 Georgia Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 3015 Georgia Ave NW, Washington, DC<br>Category: Restaurant<br>Website: https://thelemonbowl.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3015 Georgia Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://thelemonbowl.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>I Ricchi</name>
+        <address>1220 19th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1220 19th St NW, Washington, DC<br>Category: Restaurant<br>Website: http://iricchidc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1220 19th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://iricchidc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Paramount Cafe</name>
+        <address>1425 S Eads St, Arlington, VA</address>
+        <description><![CDATA[Address: 1425 S Eads St, Arlington, VA<br>Category: Restaurant<br>Website: https://www.facebook.com/Paramount-Cafe-VA-186810621485472/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1425 S Eads St, Arlington, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.facebook.com/Paramount-Cafe-VA-186810621485472/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Greenheart Juice Shop</name>
+        <address>1229 34th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1229 34th St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.greenheartjuiceshop.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1229 34th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.greenheartjuiceshop.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>100 Bowls of Soup</name>
+        <address>279 Sunset Park Dr, Herndon, VA</address>
+        <description><![CDATA[Address: 279 Sunset Park Dr, Herndon, VA<br>Category: Restaurant<br>Website: http://www.100bowlsofsoup.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>279 Sunset Park Dr, Herndon, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.100bowlsofsoup.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gaijin Ramen Shop</name>
+        <address>3800 Lee Hwy, Arlington, VA</address>
+        <description><![CDATA[Address: 3800 Lee Hwy, Arlington, VA<br>Category: Restaurant<br>Website: http://www.gaijinramenshop.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3800 Lee Hwy, Arlington, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.gaijinramenshop.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Columbia Room</name>
+        <address>124 Blagden Alley NW, Washington DC</address>
+        <description><![CDATA[Address: 124 Blagden Alley NW, Washington DC<br>Category: Restaurant<br>Website: http://columbiaroomdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>124 Blagden Alley NW, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://columbiaroomdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mockingbird Hill</name>
+        <address>1843 7th Street NW, Washington DC</address>
+        <description><![CDATA[Address: 1843 7th Street NW, Washington DC<br>Category: Restaurant<br>Website: https://www.facebook.com/drinkmoresherry/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1843 7th Street NW, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.facebook.com/drinkmoresherry/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Southern Efficiency</name>
+        <address>1841 7th Street NW, Washington DC</address>
+        <description><![CDATA[Address: 1841 7th Street NW, Washington DC<br>Category: Restaurant<br>Website: http://www.whiskeyhome.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1841 7th Street NW, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.whiskeyhome.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Eat the Rich</name>
+        <address>1839 7th Street NW, Washington DC</address>
+        <description><![CDATA[Address: 1839 7th Street NW, Washington DC<br>Category: Restaurant<br>Website: http://www.etrbar.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1839 7th Street NW, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.etrbar.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kefa Cafe</name>
+        <address>963 Bonifant St, Silver Spring, MD</address>
+        <description><![CDATA[Address: 963 Bonifant St, Silver Spring, MD<br>Category: Restaurant<br>Website: http://www.kefacafe.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>963 Bonifant St, Silver Spring, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.kefacafe.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ris</name>
+        <address>2275 L St NW, Washington, DC</address>
+        <description><![CDATA[Address: 2275 L St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.risdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2275 L St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.risdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Crumbs and Whiskers</name>
+        <address>3211 O St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3211 O St NW, Washington, DC<br>Category: Restaurant<br>Website: http://crumbsandwhiskers.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3211 O St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://crumbsandwhiskers.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Uproar</name>
+        <address>639 Florida Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 639 Florida Ave NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.uproarlounge.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>639 Florida Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.uproarlounge.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Himitsu</name>
+        <address>828 Upshur St NW, Washington, DC</address>
+        <description><![CDATA[Address: 828 Upshur St NW, Washington, DC<br>Category: Restaurant<br>Website: http://himitsudc.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>828 Upshur St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://himitsudc.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Republic Restoratives</name>
+        <address>1369 New York Ave NE, Washington, DC</address>
+        <description><![CDATA[Address: 1369 New York Ave NE, Washington, DC<br>Category: Restaurant<br>Website: http://republicrestoratives.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1369 New York Ave NE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://republicrestoratives.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dos Gringos</name>
+        <address>3116 Mt Pleasant St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3116 Mt Pleasant St NW, Washington, DC<br>Category: Restaurant<br>Website: http://dosgringosdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3116 Mt Pleasant St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://dosgringosdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Purple Patch Restaurant</name>
+        <address>3155 Mt Pleasant St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3155 Mt Pleasant St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.purplepatchdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3155 Mt Pleasant St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.purplepatchdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Haydee's]]></name>
+        <address>3102 Mt Pleasant St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3102 Mt Pleasant St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.haydees.us/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3102 Mt Pleasant St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.haydees.us/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Haydee's]]></name>
+        <address>6303 Georgia Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 6303 Georgia Ave NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.haydees.us/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>6303 Georgia Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.haydees.us/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Arlington Kabob</name>
+        <address>5046 Lee Hwy, Arlington, VA</address>
+        <description><![CDATA[Address: 5046 Lee Hwy, Arlington, VA<br>Category: Restaurant<br>Website: https://www.arlingtonkabobva.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5046 Lee Hwy, Arlington, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.arlingtonkabobva.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sudhouse</name>
+        <address>1340 U St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1340 U St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.sudhousedc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1340 U St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.sudhousedc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hank's Oyster Bar]]></name>
+        <address>1624 Q St NW, Washington, DC 20009</address>
+        <description><![CDATA[Address: 1624 Q St NW, Washington, DC 20009<br>Category: Restaurant<br>Website: http://hanksoysterbar.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1624 Q St NW, Washington, DC 20009</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://hanksoysterbar.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hank’s Pasta Bar</name>
+        <address>600 Montgomery St, Alexandria, VA 22314</address>
+        <description><![CDATA[Address: 600 Montgomery St, Alexandria, VA 22314<br>Category: Restaurant<br>Website: http://www.hankspastabar.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>600 Montgomery St, Alexandria, VA 22314</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.hankspastabar.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ice Cream Jubilee</name>
+        <address>301 Water St SE, Washington, DC 20003</address>
+        <description><![CDATA[Address: 301 Water St SE, Washington, DC 20003<br>Category: Restaurant<br>Website: http://www.icecreamjubilee.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>301 Water St SE, Washington, DC 20003</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.icecreamjubilee.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>JRINK</name>
+        <address>1323 Connecticut Ave NW, Washington DC 20036</address>
+        <description><![CDATA[Address: 1323 Connecticut Ave NW, Washington DC 20036<br>Category: Restaurant<br>Website: http://jrink.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1323 Connecticut Ave NW, Washington DC 20036</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://jrink.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>JRINK</name>
+        <address>1922 I St NW, Washington, DC 20006</address>
+        <description><![CDATA[Address: 1922 I St NW, Washington, DC 20006<br>Category: Restaurant<br>Website: http://jrink.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1922 I St NW, Washington, DC 20006</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://jrink.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>JRINK</name>
+        <address>1800 Wyoming Ave NW, Washington, DC 20009</address>
+        <description><![CDATA[Address: 1800 Wyoming Ave NW, Washington, DC 20009<br>Category: Restaurant<br>Website: http://jrink.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1800 Wyoming Ave NW, Washington, DC 20009</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://jrink.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kicheko Goods</name>
+        <address>52 O St NW #301, Washington, DC 20001</address>
+        <description><![CDATA[Address: 52 O St NW #301, Washington, DC 20001<br>Category: Restaurant<br>Website: https://kichekogoods.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>52 O St NW #301, Washington, DC 20001</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://kichekogoods.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Chaia </name>
+        <address>3207 Grace St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3207 Grace St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.chaiadc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3207 Grace St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.chaiadc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Nido </name>
+        <address>2214 Rhode Island Ave NE, Washington, DC</address>
+        <description><![CDATA[Address: 2214 Rhode Island Ave NE, Washington, DC<br>Category: Restaurant<br>Website: http://www.nido-dc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2214 Rhode Island Ave NE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.nido-dc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Veloce</name>
+        <address>1828 L St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1828 L St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.eatatveloce.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1828 L St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.eatatveloce.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Town Tavern</name>
+        <address>2323 18th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 2323 18th St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.towntaverndc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2323 18th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.towntaverndc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Johnny's Half Shell]]></name>
+        <address>1819 Columbia Rd NW, Washington, DC</address>
+        <description><![CDATA[Address: 1819 Columbia Rd NW, Washington, DC<br>Category: Restaurant<br>Website: http://johnnyshalfshell.net/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1819 Columbia Rd NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://johnnyshalfshell.net/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Taqueria Nacional</name>
+        <address>1409 T St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1409 T St NW, Washington, DC<br>Category: Restaurant<br>Website: http://taquerianacional.co/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1409 T St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://taquerianacional.co/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Olive Express Cafe</name>
+        <address>1881 Campus Commons Dr Suite 100, Reston, VA</address>
+        <description><![CDATA[Address: 1881 Campus Commons Dr Suite 100, Reston, VA<br>Category: Restaurant<br>Website: http://www.oliveexpressvirginia.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1881 Campus Commons Dr Suite 100, Reston, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.oliveexpressvirginia.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Olive Express Cafe - Summit</name>
+        <address>2000 Edmund Halley Dr #140, Reston, VA</address>
+        <description><![CDATA[Address: 2000 Edmund Halley Dr #140, Reston, VA<br>Category: Restaurant<br>Website: http://www.oliveexpressvirginia.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2000 Edmund Halley Dr #140, Reston, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.oliveexpressvirginia.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Cheesetique</name>
+        <address>2411 Mt Vernon Ave, Alexandria, VA</address>
+        <description><![CDATA[Address: 2411 Mt Vernon Ave, Alexandria, VA<br>Category: Restaurant<br>Website: http://cheesetique.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2411 Mt Vernon Ave, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://cheesetique.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Aromatic Spice Blends</name>
+        <address>279 Sunset Park Dr, Herndon, VA</address>
+        <description><![CDATA[Address: 279 Sunset Park Dr, Herndon, VA<br>Category: Retail<br>Website: https://www.aromaticspiceblends.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>279 Sunset Park Dr, Herndon, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Retail</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.aromaticspiceblends.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Cookery</name>
+        <address>3414 Wisconsin Ave, NW, Wshington, DC</address>
+        <description><![CDATA[Address: 3414 Wisconsin Ave, NW, Wshington, DC<br>Category: Retail<br>Website: http://www.cookeryshops.com/products/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3414 Wisconsin Ave, NW, Wshington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Retail</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.cookeryshops.com/products/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Brew Shop</name>
+        <address>2004 Wilson Blvd, Arlington, VA</address>
+        <description><![CDATA[Address: 2004 Wilson Blvd, Arlington, VA<br>Category: Retail<br>Website: http://www.arlbrew.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2004 Wilson Blvd, Arlington, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Retail</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.arlbrew.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Olio Tasting Room</name>
+        <address>1223 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 1223 King St, Alexandria, VA<br>Category: Retail<br>Website: https://www.oliotastingroom.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1223 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Retail</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.oliotastingroom.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Spice & Tea Exchange]]></name>
+        <address>320 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 320 King St, Alexandria, VA<br>Category: Retail<br>Website: http://www.spiceandtea.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>320 King St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Retail</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.spiceandtea.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Cookery</name>
+        <address>4017B Campbell Ave, Arlington, VA</address>
+        <description><![CDATA[Address: 4017B Campbell Ave, Arlington, VA<br>Category: Retail <br>Website: http://www.cookeryshops.com/products/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4017B Campbell Ave, Arlington, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Retail </value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.cookeryshops.com/products/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Biker Barre</name>
+        <address>738 7th St SE, Washington, DC</address>
+        <description><![CDATA[Address: 738 7th St SE, Washington, DC<br>Category: Fitness<br>Website: https://bikerbarre.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>738 7th St SE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>https://bikerbarre.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>LavaBarre</name>
+        <address>1528 Clarendon Blvd, Arlington, VA</address>
+        <description><![CDATA[Address: 1528 Clarendon Blvd, Arlington, VA<br>Category: Fitness<br>Website: http://lavabarre.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1528 Clarendon Blvd, Arlington, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://lavabarre.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Barre3</name>
+        <address>1832 14th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1832 14th St NW, Washington, DC<br>Category: Fitness<br>Website: http://barre3.com/studio-locations/dc-14th-street]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1832 14th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://barre3.com/studio-locations/dc-14th-street</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Barre3</name>
+        <address>1000 Wisconsin Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 1000 Wisconsin Ave NW, Washington, DC<br>Category: Fitness<br>Website: http://barre3.com/studio-locations/georgetown]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1000 Wisconsin Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://barre3.com/studio-locations/georgetown</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Barre3</name>
+        <address>701 2nd St NE, Washington, DC</address>
+        <description><![CDATA[Address: 701 2nd St NE, Washington, DC<br>Category: Fitness<br>Website: http://barre3.com/studio-locations/union-station]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>701 2nd St NE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://barre3.com/studio-locations/union-station</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Barre3</name>
+        <address>4900 Massachusetts Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 4900 Massachusetts Ave NW, Washington, DC<br>Category: Fitness<br>Website: http://barre3.com/studio-locations/spring-valley]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4900 Massachusetts Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://barre3.com/studio-locations/spring-valley</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>CYCLED!</name>
+        <address>1110 Ripley St, Silver Spring, MD</address>
+        <description><![CDATA[Address: 1110 Ripley St, Silver Spring, MD<br>Category: Fitness<br>Website: http://www.cycledmd.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1110 Ripley St, Silver Spring, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.cycledmd.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>MAD Fitness</name>
+        <address>7302 Carroll Ave, Takoma Park, MD</address>
+        <description><![CDATA[Address: 7302 Carroll Ave, Takoma Park, MD<br>Category: Fitness<br>Website: http://www.madfitness.us/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>7302 Carroll Ave, Takoma Park, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.madfitness.us/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tranquil Space</name>
+        <address>1632 17th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1632 17th St NW, Washington, DC<br>Category: Fitness<br>Website: http://www.tranquilspace.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1632 17th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.tranquilspace.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Off Road DC</name>
+        <address>905 U St NW, Washington, DC</address>
+        <description><![CDATA[Address: 905 U St NW, Washington, DC<br>Category: Fitness<br>Website: http://offroaddc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>905 U St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://offroaddc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Teaism</name>
+        <address>400 8th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 400 8th St NW, Washington, DC <br>Category: Tea<br>Website: http://www.vintagemirage.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>400 8th St NW, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Tea</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.vintagemirage.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Calabash Teahouse & Cafe]]></name>
+        <address>1847 7th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1847 7th St NW, Washington, DC<br>Category: Tea<br>Website: http://calabashdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1847 7th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Tea</value>
+          </Data>
+          <Data name="Website">
+            <value>http://calabashdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Miss Pixie's]]></name>
+        <address>1626 14th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1626 14th St NW, Washington, DC<br>Category: Vintage<br>Website: http://www.misspixies.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1626 14th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Vintage</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.misspixies.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Meeps Vintage</name>
+        <address>2104 18th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 2104 18th St NW, Washington, DC<br>Category: Vintage<br>Website: http://www.meepsdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2104 18th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Vintage</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.meepsdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pica Taco</name>
+        <address>1406 Florida Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 1406 Florida Ave NW, Washington, DC<br>Category: Restaurant<br>Website: http://pica-taco.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1406 Florida Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://pica-taco.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Foxfire Grill</name>
+        <address>6550 Little River Turnpike, Alexandria, VA</address>
+        <description><![CDATA[Address: 6550 Little River Turnpike, Alexandria, VA <br>Category: Restaurant<br>Website: http://www.foxfire-grill.com/index.html]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>6550 Little River Turnpike, Alexandria, VA </value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.foxfire-grill.com/index.html</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rural Dog Rescue</name>
+        <address>722 8th Street SE Apt A, Washington, DC</address>
+        <description><![CDATA[Address: 722 8th Street SE Apt A, Washington, DC<br>Category: Pet<br>Website: http://www.ruraldogrescue.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>722 8th Street SE Apt A, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Pet</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.ruraldogrescue.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Falling Leaf Wellness</name>
+        <address>2000 P St, NW, Washington DC</address>
+        <description><![CDATA[Address: 2000 P St, NW, Washington DC<br>Category: Health<br>Website: http://fallingleafwellness.net/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2000 P St, NW, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Health</value>
+          </Data>
+          <Data name="Website">
+            <value>http://fallingleafwellness.net/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Village Sweet Bakery</name>
+        <address>5872 Washington Blvd., Arlington VA</address>
+        <description><![CDATA[Address: 5872 Washington Blvd., Arlington VA<br>Category: Desert<br>Website: http://www.villagesweetbakery.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5872 Washington Blvd., Arlington VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Desert</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.villagesweetbakery.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Soupergirl!</name>
+        <address>1829 M St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1829 M St NW, Washington, DC<br>Category: Restaurant<br>Website: https://thesoupergirl.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1829 M St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://thesoupergirl.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Soupergirl!</name>
+        <address>314 Carroll St NW, Washington, DC</address>
+        <description><![CDATA[Address: 314 Carroll St NW, Washington, DC<br>Category: Restaurant<br>Website: https://thesoupergirl.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>314 Carroll St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://thesoupergirl.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Outrage</name>
+        <address>2439 18th Street NW, Washington, DC</address>
+        <description><![CDATA[Address: 2439 18th Street NW, Washington, DC<br>Category: Fashion<br>Website: https://www.the-outrage.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2439 18th Street NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.the-outrage.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mayflowers</name>
+        <address>11959 Market St, Reston, VA</address>
+        <description><![CDATA[Address: 11959 Market St, Reston, VA <br>Category: Others<br>Website: https://www.mayflowersreston.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>11959 Market St, Reston, VA </value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.mayflowersreston.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pekoe Acupuncture & Wellness Center]]></name>
+        <address>1410 9th St NW #1, Washington, DC</address>
+        <description><![CDATA[Address: 1410 9th St NW #1, Washington, DC<br>Category: Health<br>Website: https://www.pekoedc.net/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1410 9th St NW #1, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Health</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.pekoedc.net/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>FitOne Studio</name>
+        <address>814 N St Asaph St, Alexandria, VA</address>
+        <description><![CDATA[Address: 814 N St Asaph St, Alexandria, VA<br>Category: Fitness<br>Website: http://www.fitonestudio.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>814 N St Asaph St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.fitonestudio.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sweet Root Village</name>
+        <address>4570 Eisenhower Ave, Alexandria, VA</address>
+        <description><![CDATA[Address: 4570 Eisenhower Ave, Alexandria, VA<br>Category: Others<br>Website: http://sweetrootvillage.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4570 Eisenhower Ave, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>http://sweetrootvillage.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Authentic Portrait </name>
+        <address>10409 Main Street, Suite C, Fairfax VA</address>
+        <description><![CDATA[Address: 10409 Main Street, Suite C, Fairfax VA<br>Category: Others<br>Website: http://authenticportrait.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>10409 Main Street, Suite C, Fairfax VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>http://authenticportrait.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Thip Khao</name>
+        <address>3462 14th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3462 14th St NW, Washington, DC<br>Category: Restaurant<br>Website: http://www.thipkhao.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3462 14th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.thipkhao.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bangkok Golden</name>
+        <address>6395 Seven Corners Center, Falls Church, VA</address>
+        <description><![CDATA[Address: 6395 Seven Corners Center, Falls Church, VA<br>Category: Restaurant<br>Website: http://www.bangkokgoldenva.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>6395 Seven Corners Center, Falls Church, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.bangkokgoldenva.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Esencias Panameñas</name>
+        <address>3322 Georgia Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 3322 Georgia Ave NW, Washington, DC<br>Category: Restaurant<br>Website: https://esenciaspanamenas.com/About_Us.html]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3322 Georgia Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://esenciaspanamenas.com/About_Us.html</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kali Yoga Studio</name>
+        <address>3423 14th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3423 14th St NW, Washington, DC <br>Category: Fitness<br>Website: http://kaliyogadc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3423 14th St NW, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://kaliyogadc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fran's Cake & Candy Supplies]]></name>
+        <address>10927 Main Street, Fairfax, VA</address>
+        <description><![CDATA[Address: 10927 Main Street, Fairfax, VA<br>Category: Desert<br>Website: http://www.franscakeandcandy.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>10927 Main Street, Fairfax, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Desert</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.franscakeandcandy.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Righteous Cheese</name>
+        <address>Union Market, 1309 5th St NE, Washington, DC 20002</address>
+        <description><![CDATA[Address: Union Market, 1309 5th St NE, Washington, DC 20002<br>Category: Restaurant<br>Website: http://www.righteouscheese.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>Union Market, 1309 5th St NE, Washington, DC 20002</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.righteouscheese.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Coffee Bar</name>
+        <address>1200 17th St NW #150, Washington, DC</address>
+        <description><![CDATA[Address: 1200 17th St NW #150, Washington, DC <br>Category: Restaurant<br>Website: https://www.thecoffeebardc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1200 17th St NW #150, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.thecoffeebardc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Imagination Stage</name>
+        <address>4908 Auburn Ave, Bethesda, MD</address>
+        <description><![CDATA[Address: 4908 Auburn Ave, Bethesda, MD<br>Category: Others<br>Website: http://www.imaginationstage.org/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4908 Auburn Ave, Bethesda, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.imaginationstage.org/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Big Bad Woof</name>
+        <address>6960 Maple St NW, Washington, DC</address>
+        <description><![CDATA[Address: 6960 Maple St NW, Washington, DC<br>Category: Pet<br>Website: http://www.thebigbadwoof.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>6960 Maple St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Pet</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.thebigbadwoof.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tabletop</name>
+        <address>1608 20th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1608 20th St NW, Washington, DC <br>Category: Gifts<br>Website: http://tabletopdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1608 20th St NW, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://tabletopdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tabletop</name>
+        <address>6927 Laurel Ave , Takoma Park, MD</address>
+        <description><![CDATA[Address: 6927 Laurel Ave , Takoma Park, MD<br>Category: Gifts<br>Website: http://tabletopdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>6927 Laurel Ave , Takoma Park, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://tabletopdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Polly Sue's Vintage]]></name>
+        <address>6915 Laurel Ave, Takoma Park, MD</address>
+        <description><![CDATA[Address: 6915 Laurel Ave, Takoma Park, MD<br>Category: Vintage<br>Website: http://pollysuesvintage.tumblr.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>6915 Laurel Ave, Takoma Park, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Vintage</value>
+          </Data>
+          <Data name="Website">
+            <value>http://pollysuesvintage.tumblr.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Good Wood</name>
+        <address>1428 U St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1428 U St NW, Washington, DC<br>Category: Furniture<br>Website: http://www.goodwooddc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1428 U St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Furniture</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.goodwooddc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Parlour</name>
+        <address>522 U St NW, Washington, DC</address>
+        <description><![CDATA[Address: 522 U St NW, Washington, DC<br>Category: Beauty<br>Website: http://parlourdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>522 U St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>http://parlourdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Junction Vintage</name>
+        <address>1510 U St NW # B, Washington, DC</address>
+        <description><![CDATA[Address: 1510 U St NW # B, Washington, DC<br>Category: Vintage<br>Website: http://www.junctionwdc.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1510 U St NW # B, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Vintage</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.junctionwdc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rock The Reformer</name>
+        <address>5406 Wisconsin Ave c, Chevy Chase, MD</address>
+        <description><![CDATA[Address: 5406 Wisconsin Ave c, Chevy Chase, MD<br>Category: Fitness<br>Website: http://rtrpilates.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5406 Wisconsin Ave c, Chevy Chase, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://rtrpilates.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Heavenly Bodies Clinic</name>
+        <address>21305 N. Evergreen Street, Arlington, VA</address>
+        <description><![CDATA[Address: 21305 N. Evergreen Street, Arlington, VA<br>Category: Health<br>Website: http://www.heavenlybodiesclinic.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>21305 N. Evergreen Street, Arlington, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Health</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.heavenlybodiesclinic.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Multisport in Motion</name>
+        <address>2655 41st St NW, Washington, DC</address>
+        <description><![CDATA[Address: 2655 41st St NW, Washington, DC<br>Category: Fitness<br>Website: http://multisportinmotion.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2655 41st St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://multisportinmotion.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Clare and Dons</name>
+        <address>130 North Washington Street, Falls Church, VA</address>
+        <description><![CDATA[Address: 130 North Washington Street, Falls Church, VA<br>Category: Restaurant<br>Website: https://t.co/MkotX6Z5az]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>130 North Washington Street, Falls Church, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>https://t.co/MkotX6Z5az</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Eamonn's]]></name>
+        <address>728 King Street, Alexandria, VA</address>
+        <description><![CDATA[Address: 728 King Street, Alexandria, VA<br>Category: Restaurant<br>Website: http://www.eamonnsdublinchipper.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>728 King Street, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.eamonnsdublinchipper.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Peru 703</name>
+        <address>5005 Westone Plaza Suite D, Chantilly, VA</address>
+        <description><![CDATA[Address: 5005 Westone Plaza Suite D, Chantilly, VA<br>Category: Restaurant<br>Website: http://www.peru703.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5005 Westone Plaza Suite D, Chantilly, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.peru703.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pupatella</name>
+        <address>5104 Wilson Blvd, Arlington, VA</address>
+        <description><![CDATA[Address: 5104 Wilson Blvd, Arlington, VA <br>Category: Restaurant<br>Website: http://www.pupatella.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5104 Wilson Blvd, Arlington, VA </value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.pupatella.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Requin</name>
+        <address>8296 Glass Alley,Fairfax, VA</address>
+        <description><![CDATA[Address: 8296 Glass Alley,Fairfax, VA<br>Category: Restaurant<br>Website: http://requinbymic.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>8296 Glass Alley,Fairfax, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://requinbymic.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Restaurant Eve</name>
+        <address>110 South Pitt Street, Alexandria, VA</address>
+        <description><![CDATA[Address: 110 South Pitt Street, Alexandria, VA<br>Category: Restaurant<br>Website: http://www.restauranteve.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>110 South Pitt Street, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.restauranteve.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Screwtop Wine Bar</name>
+        <address>1025 N. Fillmore St., Arlington, VA</address>
+        <description><![CDATA[Address: 1025 N. Fillmore St., Arlington, VA<br>Category: Restaurant<br>Website: http://www.screwtopwinebar.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1025 N. Fillmore St., Arlington, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.screwtopwinebar.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Society Fair</name>
+        <address>277 S Washington St, Alexandria, VA</address>
+        <description><![CDATA[Address: 277 S Washington St, Alexandria, VA<br>Category: Restaurant<br>Website: http://www.societyfair.net/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>277 S Washington St, Alexandria, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.societyfair.net/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Trummer's On Main]]></name>
+        <address>7134 Main Street, Clifton, VA</address>
+        <description><![CDATA[Address: 7134 Main Street, Clifton, VA<br>Category: Restaurant<br>Website: http://www.trummersonmain.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>7134 Main Street, Clifton, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.trummersonmain.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Everly & Monet]]></name>
+        <address>4912 Del Ray Ave, Bethesda, MD</address>
+        <description><![CDATA[Address: 4912 Del Ray Ave, Bethesda, MD<br>Category: Fashion<br>Website: http://www.everlyandmonet.com/#lookbook]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4912 Del Ray Ave, Bethesda, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.everlyandmonet.com/#lookbook</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sweet Teensy Bakery</name>
+        <address>1 Wisconsin Cir., Chevy Chase, MD</address>
+        <description><![CDATA[Address: 1 Wisconsin Cir., Chevy Chase, MD<br>Category: Dessert<br>Website: https://www.sweetteensy.com/menu]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1 Wisconsin Cir., Chevy Chase, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Dessert</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.sweetteensy.com/menu</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bartered Threads</name>
+        <address>3924 12th St NE, Washington, DC</address>
+        <description><![CDATA[Address: 3924 12th St NE, Washington, DC<br>Category: Vintage<br>Website: https://www.barteredthreads.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3924 12th St NE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Vintage</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.barteredthreads.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hula Girl Bar and Grill</name>
+        <address>4044 Campbell Ave, Arlington, VA</address>
+        <description><![CDATA[Address: 4044 Campbell Ave, Arlington, VA <br>Category: Restaurant<br>Website: http://hulagirlbarandgrill.com/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4044 Campbell Ave, Arlington, VA </value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://hulagirlbarandgrill.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Core72</name>
+        <address>3316 Wisconsin Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 3316 Wisconsin Ave NW, Washington, DC<br>Category: Fashion<br>Website: http://www.core72dc.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3316 Wisconsin Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.core72dc.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Core73</name>
+        <address>5502 Connecticut Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 5502 Connecticut Ave NW, Washington, DC<br>Category: Fashion<br>Website: http://www.core72dc.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5502 Connecticut Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.core72dc.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Annie’s Ace Hardware</name>
+        <address>1240 Upshur St, NW, Washington, DC</address>
+        <description><![CDATA[Address: 1240 Upshur St, NW, Washington, DC<br>Category: Others<br>Website: www.annieshardware.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1240 Upshur St, NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>www.annieshardware.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Annie’s Ace Hardware</name>
+        <address>3405 8th Street, NE, Washington, DC</address>
+        <description><![CDATA[Address: 3405 8th Street, NE, Washington, DC<br>Category: Others<br>Website: www.annieshardware.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3405 8th Street, NE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>www.annieshardware.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Nubian Hueman</name>
+        <address>1231 Good Hope Rd SE, Washington, DC</address>
+        <description><![CDATA[Address: 1231 Good Hope Rd SE, Washington, DC<br>Category: Beauty<br>Website: http://nubianhueman.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1231 Good Hope Rd SE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>http://nubianhueman.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fibre Space</name>
+        <address>1219 King St, Alexandria, VA</address>
+        <description><![CDATA[Address: 1219 King St, Alexandria, VA <br>Category: DIY<br>Website: http://fibrespace.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1219 King St, Alexandria, VA </value>
+          </Data>
+          <Data name="Category">
+            <value>DIY</value>
+          </Data>
+          <Data name="Website">
+            <value>http://fibrespace.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Past Tense Yoga Studio</name>
+        <address>3253 Mt Pleasant St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3253 Mt Pleasant St NW, Washington, DC<br>Category: Fitness<br>Website: http://pasttensestudio.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3253 Mt Pleasant St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://pasttensestudio.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Violet Boutique</name>
+        <address>3289 M St NW, Washington, DC</address>
+        <description><![CDATA[Address: 3289 M St NW, Washington, DC <br>Category: Fashion<br>Website: http://www.violetdc.com/wonderwomen]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3289 M St NW, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.violetdc.com/wonderwomen</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Elevate</name>
+        <address>2428 14th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 2428 14th St NW, Washington, DC<br>Category: Others<br>Website: http://www.elevatedeffect.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2428 14th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.elevatedeffect.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dogma Vapes</name>
+        <address>2490 Roxbury Mill Rd #5, Glenwood, MD</address>
+        <description><![CDATA[Address: 2490 Roxbury Mill Rd #5, Glenwood, MD<br>Category: Pets<br>Website: https://www.facebook.com/DogmaVapes/]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2490 Roxbury Mill Rd #5, Glenwood, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Pets</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.facebook.com/DogmaVapes/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Stylish Patina </name>
+        <address>410 S Maple Ave #114, Falls Church, VA</address>
+        <description><![CDATA[Address: 410 S Maple Ave #114, Falls Church, VA<br>Category: Gifts<br>Website: http://www.stylishpatina.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>410 S Maple Ave #114, Falls Church, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Gifts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.stylishpatina.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dangerously Delicious Pies</name>
+        <address>1339 H st NE, Washington DC</address>
+        <description><![CDATA[Address: 1339 H st NE, Washington DC<br>Category: Restaurant<br>Website: http://www.dangerouspiesdc.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1339 H st NE, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.dangerouspiesdc.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dangerously Delicious Pies</name>
+        <address>675 I st NW, Washington DC</address>
+        <description><![CDATA[Address: 675 I st NW, Washington DC<br>Category: Restaurant<br>Website: http://www.dangerouspiesdc.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>675 I st NW, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Restaurant</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.dangerouspiesdc.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Baked by Yael</name>
+        <address>3000 Connecticut Ave NW, Washington, DC</address>
+        <description><![CDATA[Address: 3000 Connecticut Ave NW, Washington, DC<br>Category: Dessert<br>Website: https://bakedbyyael.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3000 Connecticut Ave NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Dessert</value>
+          </Data>
+          <Data name="Website">
+            <value>https://bakedbyyael.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Community Forklift</name>
+        <address>4671 Tanglewood Dr, Hyattsville, MD</address>
+        <description><![CDATA[Address: 4671 Tanglewood Dr, Hyattsville, MD<br>Category: Others<br>Website: http://communityforklift.org]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4671 Tanglewood Dr, Hyattsville, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>http://communityforklift.org</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Judah Avenue Wedding and Lifestyle Photography</name>
+        <address>718 Cloverly Street, Silver Spring, MD</address>
+        <description><![CDATA[Address: 718 Cloverly Street, Silver Spring, MD<br>Category: Others<br>Website: http://www.judahavenue.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>718 Cloverly Street, Silver Spring, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.judahavenue.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Children's Choice Pediatric Dentistry]]></name>
+        <address>8500 Annapolis Rd #213, New Carrollton, MD</address>
+        <description><![CDATA[Address: 8500 Annapolis Rd #213, New Carrollton, MD<br>Category: Health<br>Website: http://www.mychildrenschoicedental.com/-elcome.html]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>8500 Annapolis Rd #213, New Carrollton, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Health</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.mychildrenschoicedental.com/-elcome.html</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Saving Grace Petcare</name>
+        <address>224 9th St NE, Washington, DC</address>
+        <description><![CDATA[Address: 224 9th St NE, Washington, DC <br>Category: Pet<br>Website: http://www.savinggracepets.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>224 9th St NE, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Pet</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.savinggracepets.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Taylor and York</name>
+        <address>1604 7th St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1604 7th St NW, Washington, DC<br>Category: Beauty<br>Website: http://taylorandyorksalon.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1604 7th St NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Beauty</value>
+          </Data>
+          <Data name="Website">
+            <value>http://taylorandyorksalon.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Everard's Clothing]]></name>
+        <address>1802 Wisconsin Ave NW, Washington DC</address>
+        <description><![CDATA[Address: 1802 Wisconsin Ave NW, Washington DC<br>Category: Fashion<br>Website: http://everardsclothing.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1802 Wisconsin Ave NW, Washington DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://everardsclothing.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ReCreative Spaces</name>
+        <address>3501 Perry Street, Mount Rainier, MD</address>
+        <description><![CDATA[Address: 3501 Perry Street, Mount Rainier, MD<br>Category: Others<br>Website: https://www.recreativespaces.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3501 Perry Street, Mount Rainier, MD</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.recreativespaces.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Insight Opticians</name>
+        <address>1240 F St NW, Washington, DC</address>
+        <description><![CDATA[Address: 1240 F St NW, Washington, DC <br>Category: Fashion<br>Website: http://insightdc.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1240 F St NW, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://insightdc.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Solidcore</name>
+        <address>1706 Columbia Rd NW, Washington, DC</address>
+        <description><![CDATA[Address: 1706 Columbia Rd NW, Washington, DC<br>Category: Fitness<br>Website: http://solidcore.co]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1706 Columbia Rd NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://solidcore.co</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Sweet Lobby</name>
+        <address>404 8th St SE, Washington, DC</address>
+        <description><![CDATA[Address: 404 8th St SE, Washington, DC <br>Category: Dessert<br>Website: http://www.sweetlobby.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>404 8th St SE, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Dessert</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.sweetlobby.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Souk</name>
+        <address>705 8th St SE, Washington, DC</address>
+        <description><![CDATA[Address: 705 8th St SE, Washington, DC <br>Category: Dessert<br>Website: https://www.dcsouk.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>705 8th St SE, Washington, DC </value>
+          </Data>
+          <Data name="Category">
+            <value>Dessert</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.dcsouk.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Yogaso Boutique</name>
+        <address>11803 Grand Park Ave., North Bethesda, MD</address>
+        <description><![CDATA[Address: 11803 Grand Park Ave., North Bethesda, MD <br>Category: Fashion<br>Website: http://www.yogaso.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>11803 Grand Park Ave., North Bethesda, MD </value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.yogaso.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bazaar Spices</name>
+        <address>1309 5th St NE, Washington, DC</address>
+        <description><![CDATA[Address: 1309 5th St NE, Washington, DC<br>Category: Retail<br>Website: https://www.bazaarspices.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1309 5th St NE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Retail</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.bazaarspices.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Framebridge</name>
+        <address>1351 Wisconsin Ave NW #2, Washington, DC</address>
+        <description><![CDATA[Address: 1351 Wisconsin Ave NW #2, Washington, DC<br>Category: Others<br>Website: https://www.framebridge.com/?gclid=CMiDyqKAzdICFQ1YDQodHF0DMQ]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1351 Wisconsin Ave NW #2, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.framebridge.com/?gclid=CMiDyqKAzdICFQ1YDQodHF0DMQ</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lemon Lane</name>
+        <address>926B W. Broad St., Falls Church, VA</address>
+        <description><![CDATA[Address: 926B W. Broad St., Falls Church, VA<br>Category: Fashion<br>Website: http://lemonlaneconsignment.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>926B W. Broad St., Falls Church, VA</value>
+          </Data>
+          <Data name="Category">
+            <value>Fashion</value>
+          </Data>
+          <Data name="Website">
+            <value>http://lemonlaneconsignment.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Escape Lounge</name>
+        <address>1322B H Street NE, Washington, DC</address>
+        <description><![CDATA[Address: 1322B H Street NE, Washington, DC<br>Category: Others<br>Website: http://escapetheroom.today]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1322B H Street NE, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Others</value>
+          </Data>
+          <Data name="Website">
+            <value>http://escapetheroom.today</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dance Loft</name>
+        <address>4618 14th st NW, Washington, DC</address>
+        <description><![CDATA[Address: 4618 14th st NW, Washington, DC<br>Category: Fitness<br>Website: http://www.Danceloft14.org]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4618 14th st NW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Fitness</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.Danceloft14.org</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>South Capitol Smile Center</name>
+        <address>1313 South Capitol Street SW, Washington, DC</address>
+        <description><![CDATA[Address: 1313 South Capitol Street SW, Washington, DC<br>Category: Health<br>Website: http://www.southcapitolsmilecenter.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1313 South Capitol Street SW, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Health</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.southcapitolsmilecenter.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Junction Vintage </name>
+        <address>1510 U St NW # B, Washington, DC</address>
+        <description><![CDATA[Address: 1510 U St NW # B, Washington, DC<br>Category: Vintage<br>Website: http://www.junctionwdc.com]]></description>
+        <styleUrl>#icon-1512-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1510 U St NW # B, Washington, DC</value>
+          </Data>
+          <Data name="Category">
+            <value>Vintage</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.junctionwdc.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
