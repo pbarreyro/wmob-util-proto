@@ -1,65 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
-	<meta charset="UTF-8">
-	<title>Business Listing</title>
-	<!-- Google API key: AIzaSyDI6t2O-KVIX_mnlQ3cxBixFq6fxCDDh0k -->
-	<!-- Google Places Request URL: https://maps.googleapis.com/maps/api/place/details/output?parameters -->
-	<script src="scripts/jquery/jquery.min.js" ></script>
-	<script src="scripts/bootstrap/bootstrap.min.js"></script>
+  <title>Business Listingg</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="stylesheet" href="style/bootstrap/bootstrap.min.css" >
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="style/wmob.css">
-	<style>
-		/* Always set the map height explicitly to define the size of the div  element that contains the map. */
-		#map {	height: 100%;	}
-		/* Optional: Makes the sample page fill the window. */
-		html, body { height: 100%; margin: 0; padding: 0;      }
-	</style>
+  <script src="scripts/jquery/jquery.min.js" ></script>
+  <script src="scripts/bootstrap/bootstrap.min.js"></script>
+  <script type="text/javascript" src="scripts/wmobApp.js"></script>
+
+
+  <link rel="stylesheet" href="style/bootstrap/bootstrap.min.css" >
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style/wmob.css">
+
+
 </head>
-<body>
-	
-	
-	<!-- div id="map"></div >
+<body onready="init();">
 
-	<div class="output"></div -->
-	<script type="text/javascript">
-		
-		var $ = jQuery.noConflict();
-		var map;
-		/*
-		function initMap() {
-			map = new google.maps.Map(document.getElementById('map'), { center: {lat: -34.397, lng: 150.644}, zoom: 8 });
-		}
-		
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+      	<i class="material-icons">announcement</i>
+        <!--span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span --> 
+      </button>
+      <a class="navbar-brand" href="#" onclick="getCurrentLocation();"><i id="wmoblogo" class="material-icons md-36">face</i></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Map</a></li>
+        <li><a href="#">Listings</a></li>
+        <li><a href="#">Add Business</a></li>
+        <li><a href="#">Search</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><i class="material-icons" onclick="getCurrentLocation();">my_location</i></a></li>
+        <li><a href="#"><i class="material-icons">account_circle</i></a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  
+<div class="container-fluid text-center">    
 
-		$(document).ready(function(){
-			console.log('>>>>Loading geojson doc');
-			$.getJSON( "./data/UglyDCWomenOwnedBusinesses.json", function( data ) {
-			  //var txt = '<p>'+data.type+'</p>';
-			  //$('.output').append( txt );
-			  
-			  var items = [];
-			  $.each( data.features, function( key, val ) {
-			  	
-				    $.each(val.properties, function(i,j){
-				        items.push('<li id="' + i + '">' + j + '</li>');
-				    })  
-				
-			  });
-			 
-			  $( "<ul/>", {
-			    "class": "my-new-list",
-			    html: items.join( "" )
-			  }).appendTo( "body" );
-			  
-			});
-		});
-		*/
-	</script>
-    <!--script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDI6t2O-KVIX_mnlQ3cxBixFq6fxCDDh0k&callback=initMap"
-  	 type="text/javascript"></script -->
+
+  <div class="row content">
+
+    <!-- Map center -->
+    <div id="map"></div >
+
+  </div>
+</div>
+
+<!-- footer class="container-fluid text-center" data-toggle="collapse" data-target="#homeftr">
+
+	<div id="minFooter" class="collapse in">
+		<a href="#homeftr"> Click Me</a>
+	</div>
+
+	<div id="homeftr" class="collapse in">
+		<p>Debugging Text and other stuff later maybe?</p>
+	</div>
+</footer -->
+
+
+  <script type="text/javascript">
+  	var $ = jQuery.noConflict();
+  </script>
+
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDI6t2O-KVIX_mnlQ3cxBixFq6fxCDDh0k&callback=initMap"
+     type="text/javascript"></script>
 </body>
 </html>
