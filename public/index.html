@@ -8,9 +8,10 @@
 	<!-- Google Places Request URL: https://maps.googleapis.com/maps/api/place/details/output?parameters -->
 	<script src="scripts/jquery/jquery.min.js" ></script>
 	<script src="scripts/bootstrap/bootstrap.min.js"></script>
-	<!-- script src="scripts/geoXML/geoxml3.js"></script -->
+
 	<link rel="stylesheet" href="style/bootstrap/bootstrap.min.css" >
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style/wmob.css">
 	<style>
 		/* Always set the map height explicitly to define the size of the div  element that contains the map. */
 		#map {	height: 100%;	}
@@ -21,9 +22,9 @@
 <body>
 	
 	
-	<!-- div id="map"></div -->
+	<!-- div id="map"></div >
 
-	<div class="output"></div>
+	<div class="output"></div -->
 	<script type="text/javascript">
 		
 		var $ = jQuery.noConflict();
@@ -32,7 +33,7 @@
 		function initMap() {
 			map = new google.maps.Map(document.getElementById('map'), { center: {lat: -34.397, lng: 150.644}, zoom: 8 });
 		}
-		*/
+		
 
 		$(document).ready(function(){
 			console.log('>>>>Loading geojson doc');
@@ -56,6 +57,7 @@
 			  
 			});
 		});
+		*/
 	</script>
     <!--script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDI6t2O-KVIX_mnlQ3cxBixFq6fxCDDh0k&callback=initMap"
   	 type="text/javascript"></script -->
